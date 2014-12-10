@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Database.xsl"?>
+
+<publishing_house>
+
+<author>
+	<name><author_first_name>Rachel</author_first_name>
+	<author_last_name>Abbott</author_last_name></name>
+		<picture>
+			<image source="images/abbott" />
+		</picture>
+		<biography>Rachel published Only the Innocent in November 2011. It raced up the UK charts to reach the top 100 within 12 weeks and quickly hit the #1 spot in the Amazon Kindle chart (all categories) and remained there for four weeks.
+
+		Originally Only the Innocent was a self-published title, but since the success of the early version, the novel was re-edited and the new version was launched in the US by Thomas and Mercer in paperback, audio and Kindle versions on 5th February 2013, hitting the number one spot in the Kindle Store in August 2013. Her second book, The Back Road, was also published by Thomas and Mercer.
+
+		Rachel Abbott was born just outside Manchester, England. She spent most of her working life as the Managing Director of an interactive media company, developing software and websites for the education market. The sale of that business enabled her to fulfil one of her lifelong ambitions - to buy and restore a property in Italy.
+
+		Rachel now lives in Alderney - a beautiful island off the coast of France, and is now able to devote time to her other love - writing fiction.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B0068FBVCW</url>
+  		</homepages>
+
+			<book_title><title>The Back Road</title></book_title>
+				<book_cover>
+					<image source="cover/abbott1" />
+				</book_cover>
+				<book_description>In a quiet country village, secrets abound. When a young girl, Abbie Campbell, is knocked over and left for dead on the back road of the village of Little Melham, waves of shock ripple through the small community and a chain of events, which threatens to expose long-kept secrets, is triggered.
+				For Ellie Saunders, the truth about that night puts both her marriage and the safety of her children in jeopardy-she has to protect her family, no matter what the cost. And Ellie isn't the only one with something to hide. She and her sister Leo believe they have put their troubled childhood behind them, but Leo's quest for the truth reveals a terrible secret that has lain hidden for years.
+				Ellie's neighbor, former detective Tom Douglas, has escaped to Little Melham in search of a quiet life, but finds himself drawn into the web of deceit as his every instinct tells him that what happened to young Abbie was far more than a tragic accident.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>mystery</genre><genre>suspense</genre><genre>crime</genre>
+</author>
+<author>
+
+		<book_title><title>Only The Innocent</title></book_title>
+		<book_cover>
+					<image source="cover/abbott2" />
+				</book_cover>
+				<book_description>Every moment of Sir Hugo Fletcher’s life has been chronicled in the British press: his privileged upbringing, his high-profile charity work to end human trafficking—even his two marriages. But when the billionaire philanthropist is discovered murdered in his London home, tied naked to a bed, the scandal is only a shadow of the darkness lurking off-camera.
+
+				Laura Fletcher returns from an Italian vacation to find her husband dead and her home under siege by paparazzi. Is she shocked? Yes. But is she distraught? Not exactly. Especially when Chief Inspector Tom Douglas reveals his suspicions that Hugo’s killer is female. Laura always knew she wasn’t the only woman in Hugo’s life. And she knows she wasn’t the only one with a motive to kill.
+
+				The deeper Douglas digs, the more sordid details about Hugo Fletcher he uncovers. And yet nothing compares to the secret Laura guards, a secret that could bring the guilty to justice—or destroy an innocent life forever.</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>mystery</genre><genre>suspense</genre><genre>crime</genre>			
+</author>
+<author>
+
+	<name><author_first_name>Richard</author_first_name>
+	<author_last_name>Bard</author_last_name></name>
+		<picture>
+			<image source="images/bard" />
+		</picture>
+		<biography>As a young Air Force pilot, Richard was diagnosed with cancer and learned that he had only a few months to live. Thirty-six years later he's still going strong. 
+
+		He earned a management degree from the University of Notre Dame and after leaving the Air Force he ran three successful companies involving advanced security products and hi-tech displays used by US embassies and government facilities worldwide. He was an active member of the California Crime Prevention Officer's Association and has been published with cover stories in Security magazine and ASIS Security Management magazine. 
+
+		When asked what he hopes to achieve as a writer, he said, "The dream for me is to be walking through an airport and notice someone with her head buried in the book. Many readers have said they found it impossible to put down. For me, that's the ultimate compliment." Bard currently resides with his wonderful wife in Redondo Beach, California, where he remains in excellent health. 
+
+		Books 1 and 2 will be republished by Thomas and Mercer in April of 2013. Book Three of the series is scheduled for release in July of 2013.</biography>
+			<book_title><title>Brainrush (Brainrush Series Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/bard1" />
+				</book_cover>
+				<book_description>Before he slid into the MRI machine, Jake Bronson was just an ordinary guy with terminal cancer. But when an earthquake hits during the procedure, Jake staggers from the wreckage a profoundly changed man, now endowed with uncanny mental abilities.
+  
+				An ocean away, Luciano Battista wants a piece of Jake's talent. Posing as a pioneering scientist, the terrorist leader has been conducting cerebral-implant experiments in a sinister quest to create a breed of super jihadist agents...and Jake's altered brain may be the key to his success. But Jake refuses to play the pawn in an unholy war--and when an innocent woman and autistic child are taken hostage to force his cooperation, he embarks on a jihad of his own. Jake and his band of loyal friends are thrust into a deadly chase that leads from the canals of Venice through Monte Carlo and finally to an ancient cavern in the Hindu Kush mountains of Afghanistan--where Jake discovers that his newfound talents carry a hidden price that threatens the entire human race. </book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>science fiction</genre><genre>thriller</genre><genre>suspense</genre>
+</author>					
+<author>
+			<book_title><title>The Enemy of My Enemy (Brainrush Series Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/bard2" />
+				</book_cover>
+				<book_description> When a freak accident gave Jake Bronson near-superhuman mental powers and landed his loved ones in the crosshairs of an Islamic terrorist, the only way out was with guns blazing. But Jake was unable to put a stop to his nightmares or his murderous nemesis, Luciano Battista, in that ferocious Afghan mountains showdown. Now the terror czar and his minions have brought the fight to American soil--along with the most terrifying bioweapon that has ever threatened the free world. They demand vengeance, and Jake's family and friends are caught in the crossfire.
+
+				From California's beaches and Mexico's deserts to the depths of a raging underground river and the treacherous Venezuelan jungle, Jake and his unlikely alliance of combat veterans and gangsters wage a rolling war of wits, weapons, and indomitable will--to rescue those they love, to save America from extinction, and to stop a madman's bid for global conquest dead in its tracks.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>science fiction</genre><genre>thriller</genre><genre>suspense</genre>
+</author>
+<author>
+			<book_title><title>Beyond Judgement (Brainrush Series Book 3)</title></book_title>
+			<book_cover>
+					<image source="cover/bard3" />
+				</book_cover>
+				<book_description>After waking up with amnesia from a six-year coma, Jake Bronson’s past is lost to him. But that doesn’t mean the past hasn’t been looking for him—or that it will let him live when it finally catches up.
+
+				Jake’s placid, anonymous life in Italy is shattered by the arrival of an assassination squad hell-bent on eliminating him—and he has no idea why he’s in their crosshairs. He’s saved only when an American scientist intervenes, wielding strange technology that briefly reactivates Jake’s dormant memories and deadly skills. As unknown enemies continue to hound Jake’s every step, the scientist helps him reconnect with lost friends and loved ones who believed him long dead.
+
+				Any happy reunion is forfeit, though, as Jake’s murky history and mysterious talents conceal a terrible secret that—should it fall into the wrong hands—could trigger the extinction of the human race. Averting this apocalypse means Jake must risk everything to reawaken his true self and stop an ancient order from unleashing humanity’s ultimate judgment.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>science fiction</genre><genre>thriller</genre><genre>suspense</genre>
+</author>
+<author>
+	<name><author_first_name>Roberto</author_first_name>
+	<author_last_name>Calas</author_last_name></name>
+		<picture>
+			<image source="images/calas" />
+		</picture>
+		<biography>Roberto Calas is an author and lover of history. His serial trilogy (The Scourge) is about a 14th century knight fighting his way through a demon-infested England to reunite with the woman he loves. And every bit of it is true except for the made up parts. 
+
+		In addition to The Scourge series, Roberto has written The Beast of Maug Maurai (fantasy), and Kingdom of Glass (historical fiction in the Foreworld universe). He lives in Sandy Hook, Connecticut with his two children, and visits the United Kingdom on a monthly basis to be with his fiancée, Annabelle. Sometimes he fights demons to reach her.</biography>
+			<book_title><title>The Scourge (The Scourge Series Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/calas1" />
+				</book_cover>
+				<book_description>God has forsaken this land.
+				A mysterious plague descends upon 14th century England, ravaging the country and trapping the souls of the afflicted in eternal madness. The feudal hierarchy--and even the church itself-- slowly crumbles as the dead rise to feed and the living seek whatever shelter they can. The bishops of England call for calm and obedience, but one man isn’t listening.
+
+				Sir Edward of Bodiam has been separated from the woman he loves and nothing on heaven or earth can stop him from seeking her out. 
+
+				Edward and two of his knights travel through the swiftly changing landscape of England, a countryside now overrun by the minions of hell. The knights encounter madness, violence, and sorrow, but Edward fights his way ever deeper into the thickening darkness of unholy terror.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>historical fiction</genre><genre>horror</genre><genre>fantasy</genre>
+</author>
+<author>
+			<book_title><title>Nostrum (The Scourge Series Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/calas2" />
+				</book_cover>
+				<book_description>The journey north ended with The Scourge.
+				The journey for a cure has just begun…
+
+				Sir Edward Dallingridge survived his journey through the anarchy that is now England, leaving in his wake the bodies of mad lords, foul invaders, friends, and the risen dead. There was nothing on earth that could keep him from the woman he loves.
+
+				Nothing but the horror that has already consumed her.
+
+				His journey is over, but his mission is far from complete. As a knight of the realm, he has defended England from every enemy it has. But how does one drive away a plague sent from hell? His only hope lies in the rumors of a cure–a treatment concocted by a strange man on an island fortress. Edward will do everything in his power to find this alchemist and to bring Elizabeth back from the walking terror she has become.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>historical fiction</genre><genre>horror</genre><genre>fantasy</genre>
+</author>
+<author>
+	<name><author_first_name>Kate</author_first_name>
+	<author_last_name>Danley</author_last_name></name>
+		<picture>
+			<image source="images/danley" />
+		</picture>
+		<biography>USA Today Bestselling author Kate Danley's debut novel The Woodcutter (47North) was honored with the Garcia Award for the Best Fiction Book of the Year, the 1st Place Fantasy Book in the Reader Views Literary Awards, and was the 1st place winner of the Sci-Fi/Fantasy category in the Next Generation Indie Book Awards. Her book Queen Mab was honored with the McDougall Previews Award for Best Fantasy Book. Her Maggie MacKay: Magical Tracker series has been optioned for film and television.
+
+		Her plays have been produced in New York, Los Angeles, and DC Metro area. She has over 300+ film, television, and theatre credits to her name, specializing in sketch, improv, and Shakespeare. She trained in on-camera puppetry with Mr. Snuffleupagus and played the head of a 20-foot dinosaur on an NBC pilot.
+
+		She lost on Hollywood Squares.</biography>
+			<book_title><title>The Woodcutter</title></book_title>
+			<book_cover>
+					<image source="cover/danley1" />
+				</book_cover>
+				<book_description>Deep within the Wood, a young woman lies dead. Not a mark on her body. No trace of her murderer. Only her chipped glass slippers hint at her identity.
+
+				The Woodcutter, keeper of the peace between the Twelve Kingdoms of Man and the Realm of the Faerie, must find the maiden’s killer before others share her fate. Guided by the wind and aided by three charmed axes won from the River God, the Woodcutter begins his hunt, searching for clues in the whispering dominions of the enchanted unknown.
+
+				But quickly he finds that one murdered maiden is not the only nefarious mystery afoot: one of Odin’s hellhounds has escaped, a sinister mansion appears where it shouldn’t, a pixie dust drug trade runs rampant, and more young girls go missing. Looming in the shadows is the malevolent, power-hungry queen, and she will stop at nothing to destroy the Twelve Kingdoms and annihilate the Royal Fae…unless the Woodcutter can outmaneuver her and save the gentle souls of the Wood.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>fantasy</genre><genre>young adult</genre><genre>fairy tale</genre>
+</author>
+<author>
+			<book_title><title>Reborn (A Dead Man Adventure)</title></book_title>
+			<book_cover>
+					<image source="cover/danley2" />
+				</book_cover>
+				<book_description>Tanis Archer is facing a miserable twenty-fifth birthday. She's a part-time barista in her sixth year at Dallas Community College. Her life is going nowhere, fast.
+
+				Literally.
+
+				Because on her way to work, she loses control of her car and is killed in a horrific crash. That should have been the tragic end of her story. But days later, she wakes up on a cold morgue slab...and soon learns that miraculous resurrections have brutal side effects. For starters, there are people around her who look as if they are decomposing from the inside-out, victims of their rotting souls. Even worse, it's no illusion. What she is seeing is real, a shadowy part of the world where the bloody battle between good and evil is being fought every day by an ax-wielding "dead man" and his rag-tag army of supernatural freaks.
+
+				And she’s being asked to join him.
+
+				Obviously that's not how Tanis wants to spend her afterlife—she'd rather party with her new-found abilities—but an unimaginable horror is rising from the Black Sea, and she might just be the only person who can save humanity from an agonizing, never-ending nightmare...</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>horror</genre><genre>fantasy</genre>
+</author>
+<author>
+	<name><author_first_name>Cynthia</author_first_name>
+	<author_last_name>Eden</author_last_name></name>
+		<picture>
+			<image source="images/eden" />
+		</picture>
+		<biography>Cynthia is a southern girl who loves horror movies, chocolate, and happy endings. She has always wanted to write (don't most authors say that?), and particularly enjoys creating stories about monsters-vampires, werewolves, and even the real-life monsters who populate her romantic suspense stories.</biography>
+			<book_title><title>Die For Me: A Novel of the Valentine Killer</title></book_title>
+			<book_cover>
+					<image source="cover/eden1" />
+				</book_cover>
+				<book_description>She thought her fiancé was the perfect man—until he turned out to be the perfect killer… 
+
+				Katherine Cole is running for her life, desperate to escape the Valentine Killer—so-called because he stabs his victims through the heart and leaves them holding a telltale single red rose. Still he tracks her to New Orleans and begins carving a bloody path to her door. But this time, Katherine refuses to run any farther. This time, she’ll do anything to stop the madman she once loved, even trust the sexy cop promising to keep her safe…
+
+				Detective Dane Black never lets his emotions interfere with his job, even as the Valentine Killer surfaces in New Orleans to stalk his prey. But when Dane agrees to protect the killer’s ex-fiancée, Katherine Cole, he can’t ignore the passion kindling between them. After a single unforgettable night binds them body and soul, Dane knows he won’t rest until Katherine is safe in his arms—and the Valentine Killer is dead.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>romance</genre><genre>suspense</genre><genre>thriller</genre>
+</author>
+<author>
+			<book_title><title>Fear For Me: A Novel of the Bayou Butcher</title></book_title>
+			<book_cover>
+					<image source="cover/eden2" />
+				</book_cover>
+				<book_description>A shared passion for justice first brought Baton Rouge district attorney Lauren Chandler and US marshal Anthony Ross together—when each played their part in bringing down the infamous Bayou Butcher. The sparks flying between the two made it clear they weren’t just a legal dream team. Then desire had to make way for duty, and what they had was done. But it would never be over.
+
+				Five years later, it’s none other than the Butcher who gets things started again, when his shocking jailbreak reunites the lawyer and the lawman…and reignites their love. But this time, the pair is in danger of being permanently parted—by a killer with revenge on his mind, and Lauren on the top of his list. As a new wave of terror sweeps through the streets and swamps of Baton Rouge, one man will pit his boundless passion against another’s relentless hate, for the life of the woman who obsesses them both.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>romance</genre><genre>suspense</genre><genre>thriller</genre>
+</author>
+<author>
+			<book_title><title>Scream For Me: A Novel for the Night Hunter</title></book_title>
+			<book_cover>
+					<image source="cover/eden3" />
+				</book_cover>
+				<book_description>They were only supposed to have a professional relationship, but FBI agent Kyle McKenzie has been fantasizing about his sexy partner, Cadence Hollow, from the moment they first met. It takes the darkest case of their careers to finally bring their hidden desire bubbling to the surface. Once they’re in each other’s arms, though, they swear that nothing short of death will part them. The Night Hunter—a cunning stalker whose four-state, fifteen-year abduction spree began in Paradox, Alabama, with Kyle’s sister—may be only too happy to oblige.
+
+				In the small town, Kyle must confront the painful past he’s been hiding from Cadence. Kyle vows to put the Hunter behind bars…or in the ground. But the one thing that obsesses Kyle more than his sister’s grim fate—his furious love for Cadence—is the weapon the Hunter will use to lure his pursuers into the mouth of a murderous trap.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>romance</genre><genre>suspense</genre><genre>thriller</genre>
+</author>
+<author>
+	<name><author_first_name>Christina</author_first_name>
+	<author_last_name>Farley</author_last_name></name>
+		<picture>
+			<image source="images/farley" />
+		</picture>
+		<biography>Christina Farley was born and raised in upstate New York. As a child, she loved to explore, which later inspired her to jump on a plane and travel the world. She taught at international schools in Asia for ten years, eight of which were in the mysterious and beautiful city of Seoul, Korea that became the setting of Gilded and Silvern. 
+
+		Currently she lives in Clermont, FL with her husband and two sons--that is until the travel itch whisks her off to a new unknown.</biography>
+			<book_title><title>Gilded (The Gilded Series Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/farley1" />
+				</book_cover>
+				<book_description>Sixteen-year-old Jae Hwa Lee is a Korean-American girl with a black belt, a deadly proclivity with steel-tipped arrows, and a chip on her shoulder the size of Korea itself. When her widowed dad uproots her to Seoul from her home in L.A., Jae thinks her biggest challenges will be fitting into a new school and dealing with her dismissive Korean grandfather. Then she discovers that a Korean demi-god, Haemosu, has been stealing the soul of the oldest daughter of each generation in her family for centuries. And she's next.
+				But that’s not Jae’s only problem.
+
+				There's also Marc. Irresistible and charming, Marc threatens to break the barriers around Jae's heart. As the two grow closer, Jae must decide if she can trust him. But Marc has a secret of his own—one that could help Jae overturn the curse on her family for good. It turns out that Jae's been wrong about a lot of things: her grandfather is her greatest ally, even the tough girl can fall in love, and Korea might just be the home she's always been looking for.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>fantasy</genre><genre>young adult</genre><genre>romance</genre><genre>paranormal</genre>
+</author>
+<author>
+			<book_title><title>Silvern(The Gilded Series Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/farley2" />
+				</book_cover>
+				<book_description>Jae Hwa Lee is ready to forget about immortals and move on with her life. Until the god of darkness, Kud, sends an assassin to kill her. She escapes with the knowledge that Kud is seeking the lost White Tiger Orb, and joins the Guardians of Shinshi to seek out the orb before Kud can find it. But Kud is a stronger and more devious god than Jae ever imagined. Jae is soon painfully reminded that by making an enemy of Kud, she has placed her closest friends in danger, and must decide how much she can bear to sacrifice to defeat one of the most powerful immortals in all of Korea.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>fantasy</genre><genre>young adult</genre><genre>romance</genre><genre>paranormal</genre>
+</author>
+<author>
+	<name><author_first_name>Bob</author_first_name>
+	<author_last_name>Garfield</author_last_name></name>
+		<picture>
+			<image source="images/garfield" />
+		</picture>
+		<biography>Bob Garfield is a columnist, critic, essayist, pundit, international lecturer and obscure broadcast personality. He isn't exactly a media whore, but he's extremely promiscuous.
+
+		Garfield is co-host of National Public Radio's weekly Peabody Award-winning program on the media, cleverly titled "On the Media." He is also a columnist for both MediaPost and The Guardian , writing on the subjects of marketing and media, respectively. The Guardian column is slightly longer because of superfluous vowels in words like "labour."
+
+		For a dozen years, Garfield was a commentator/correspondent for NPR's "All Things Considered." Dubbed by The New York Times "the Charles Kuralt of Bizarro World," he specialized in quirky Americana. A 1997 collection of his roving weirdness, Waking Up Screaming from the American Dream, was favorably reviewed and quickly forgotten. 
+
+		For 25 years, Garfield wrote the AdReview column in Advertising Age, and became the most feared and influential commentator of advertising who ever lived, if you don't count Jay Leno. Garfield was the longtime advertising analyst for ABC News. He's been a regular on Financial News Network, CNBC's "Power Lunch" and "Adam Smith's Money Game" on PBS. He also served as a political-advertising analyst for CBS, before being bounced in 1992 following an unfortunate Green Room incident. It was his most traumatic TV experience since "Oprah" in 1991, when he was humiliated by Mr. Whipple before a live studio audience.
+
+		As a lecturer, panelist and emcee, he has appeared in 36 countries on six continents, including such venues as the Kennedy Center, the U.S. Capitol, the Rainbow Room, Broadway's Hudson Theater, the Smithsonian, Circus Circus casino, Nashville's Ryman Auditorium (Grand Ole Opry), the United Nations, Harvard, Columbia and Princeton universities and, memorably, a Thai Kickboxing ring in Cape Town, South Africa.
+
+		He's been a contributing editor for the Washington Post Magazine, Civilization and the op-ed page of USA Today. He has also written for The New York Times, Playboy, Atlantic, Sports Illustrated, Wired and many other publications. 
+
+		His 2003 manifesto on advertising, And Now a Few Words From Me, is published in eight languages (although, admittedly, one is Bulgarian). His 2009 book, The Chaos Scenario, accurately predicted the agonizing death of the very industries that constitute his livelihood. His prescription for salvation, Can't Buy Me Like, will be published by Penguin Portfolio in March 2013. His first novel, Bedfellows was published in the fall of 2012. Garfield co-wrote "Tag, You're It," a snappy country song performed by Willie Nelson, and wrote an episode of the short-lived NBC sitcom "Sweet Surrender." It sucked. He is also the co-host of a Slate.com podcast on language titled Lexicon Valley. That's pretty good, actually.
+
+		Garfield has won many journalism prizes including some doozies and two National Press Club poker championships. He lives in suburban Washington, DC, where, in separate incidents 11 months apart, he was twice rear-ended by federal employees.</biography>
+			<book_title><title>Bedfellows</title></book_title>
+			<book_cover>
+					<image source="cover/garfield1" />
+				</book_cover>
+				<book_description>Jack Schiavone wants to rebuild his life after an embezzlement scandal saw him drummed out of his high-paying advertising job. So he’s reinvented himself as “Mr. Mattress,” a discount bedding franchisee in Ebbets Beach, Brooklyn. Running a mattress store is a nice, quiet life—until Jack gets sucked into a simmering mob war that pits an ambitious Russian crime boss against a softening Italian don.
+
+				Soon everyone is “going to the mattresses.”
+
+				Jack falls for the don’s gorgeous black-sheep daughter, a legal aid attorney, making him the target of a jealous wise guy/lounge singer who’s fixated on her too. And his new store manager—the don’s gentle, stamp collecting, cottage cheese–eating former consigliere—proves as good at selling mattresses as he was at cooking the books for the mob. Then the Russians put on a show of force, and the don’s only recourse is to call on the world’s worst hit man: a mild-mannered chiropractor with an innovative killing technique.
+
+				When the smoke clears, who will be the don of Ebbets Beach?</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>mystery</genre><genre>fiction</genre>
+</author>
+<author>
+	<name><author_first_name>Katherine Amt</author_first_name>
+	<author_last_name>Hanna</author_last_name></name>
+		<picture>
+			<image source="images/hanna" />
+		</picture>
+		<biography>Katy Hanna lives in Pennsylvania with her husband and two sons. When not writing she can be found in her sewing room making medieval and biblical costumes. A few of her favorite authors are Lois McMaster Bujold, Orson Scott Card, John Wyndham, and Connie Willis. 
+		Breakdown is her first full-length novel. </biography>
+			<book_title><title>Breakdown</title></book_title>
+			<book_cover>
+					<image source="cover/hanna1" />
+				</book_cover>
+				<book_description>An influenza plague decimates humanity...
+
+				A man loses his wife and baby daughter...
+
+				Six years after a pandemic devastates the human population, former rock star Chris Price finally makes it from New York to Britain to reunite with his brother. His passage leaves him scarred, in body and mind, by exposure to humankind at its most desperate and dangerous. But another ordeal awaits him beyond the urban ruins, in an idyllic country refuge where Chris meets a woman, Pauline, who is largely untouched by the world’s horrors. Together, Chris and Pauline undertake the most difficult facet of Chris’s journey: confronting grief, violence, and the man Chris has become. They will discover whether the human spirit is capable of surviving and loving again in this darker, harder world.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>post apocalyptic</genre><genre>science fiction</genre><genre>horror</genre> 
+</author>
+<author>
+			<book_title><title>The Work of the Devil</title></book_title>
+			<book_cover>
+					<image source="cover/hanna2" />
+				</book_cover>
+				<book_description>“The road north of the river runs straight to evil.”
+
+				In a remote northern village, a close-knit community survives at the edge of the known world. On the far bank of the river that no one crosses lies an unnaturally straight road. Nothing ever grows on the road, and the curious heat emanating from its surface keeps it uncannily clear of snow and ice.
+
+				Along this road, Aaron and his companions must travel. It is rumored that at the end of the road lies an object—the work of the devil—which is responsible for the untimely deaths of the villagers. The small band of men have volunteered to destroy this thing, whatever it is, at whatever cost. </book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>suspense</genre><genre>horror</genre><genre>mystery</genre>
+</author>
+<author>
+	<name><author_first_name>Mona</author_first_name>
+	<author_last_name>Ingram</author_last_name></name>
+		<picture>
+			<image source="images/ingram" />
+		</picture>
+		<biography>Mona Ingram is the author of 20 romance novels, including two novellas. Many of her stories take place in British Columbia, where she has lived since the age of twelve. In recent years she has lived in the Okanagan Valley and on Vancouver Island. In addition to reading and writing, traveling and bird watching are among Mona's favourite pastimes.
+		Mona wrote formerly for Avalon Books, a respected New York publisher which was bought by Amazon's Montlake Press in early 2012.</biography>
+			<book_title><title>The Shell Game</title></book_title>
+			<book_cover>
+					<image source="cover/ingram1" />
+				</book_cover>
+				<book_description>Rebecca Lambert returns to her childhood home after the passing of her grandmother and comes face-to-face with her high-school sweetheart, Mitch Burton. Their encounter recalls the painful memory of Mitch s unexplained disappearance before the night of their final school dance.
+				After Rebecca leaves for college and career, Mitch returns and begins living at Rebecca s grandmother s bed-and-breakfast, fixing boats for the guests. When Rebecca returns many years later and discovers her grandmother left half of her business to both Rebecca and Mitch, she is forced to come to terms with painful memories and struggle with re-awakened feelings for Mitch.
+
+				Eventually, Rebecca discovers that much like the Shell Game at the local carnival the truth is rarely what it seems.</book_description>
+					<year><year_published>2007</year_published></year>
+					<genre>romance</genre><genre>mystery</genre>
+</author>
+<author>
+			<book_title><title>The Reluctant Rockstar</title></book_title>
+			<book_cover>
+					<image source="cover/ingram2" />
+				</book_cover>
+				<book_description>An experienced television journalist, Skye Cameron needs a big interview to propel her from weather person back into investigative reporting at her new television station. She's determined to get there and will do anything to reach her goal.
+
+				Jason Williams, a world-renowned paleontologist, rarely does television interviews. When Skye has a chance to attend a field expedition led by Jason, she jumps at the chance, hoping to gain his confidence before approaching him about an interview. But when the two come face to face she's torn between her desire to further her career and her growing attraction to the reclusive scientist.
+
+
+				Join Skye and Jason in the Canadian badlands as they learn to be true to each other, but more importantly, to themselves.</book_description>
+					<year><year_published>2007</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>But Not for Me</title></book_title>
+			<book_cover>
+					<image source="cover/ingram3" />
+				</book_cover>
+				<book_description>Erin Delaney, a skilled and respected chef, is in demand in her profession, but her personal life is in shambles. Determined to get away from it all and get a fresh start, she accepts a position as chef at an exclusive fishing lodge on the west coast of British Columbia. Traveling to her new job via supply boat, she enjoys the company of the other two passengers but clashes with Graydon, the young captain. When an electrical fire causes all the passengers to abandon ship, Erin does what she's always done--take care of everyone else. She quickly takes control of the situation, earning the admiration and respect of Gray. By the time Gray and Erin get to the lodge, their chemistry is palpable, though Gray's strained relationship with his father, the owner of the lodge, and Erin's issues with her sister threaten to jeopardize this fledgling relationship. When her rescue story is splashed about in the media, self-conscious Erin tries to retreat from the spotlight. However, with the help of her new friends, especially Gray, Erin discovers that perhaps she deserves to be the center of attention for once.</book_description>
+					<year><year_published>2008</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Brush With Destiny</title></book_title>
+			<book_cover>
+					<image source="cover/ingram4" />
+				</book_cover>
+				<book_description>Shattered by the death of her young daughter, Ashley Stewart moves to one of the many islands off the coast of British Columbia. Struggling to come to terms with the dramatic changes in her life, the renowned artist has lost the desire to paint but is hopeful that the tranquility of island life will renew her battered soul. Recently divorced, the last thing Ashley is looking for is another emotional attachment. But her good intentions are swept aside when she meets Matt, a widower with a lovely young daughter named Caitlin. Initially frightened at the thought of becoming too involved with Caitlin, she is slowly won over by the child. When Ashley returns to the mainland for an art show, she is surprised to find Matt. And the surprises don t end there.</book_description>
+					<year><year_published>2009</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>The Gift</title></book_title>
+			<book_cover>
+					<image source="cover/ingram5" />
+				</book_cover>
+				<book_description>Julie Chapman is content with her life, thank you very much. As a single mother, she owns and runs a houseboat rental company in Sicamous, British Columbia.
+				Quentin Callahan, a friend of Julie's brother, lives in Vancouver and has become a successful business consultant. Many years ago, on her graduation night, he rescued Julie when her date had too much to drink and now he's back. The attraction between Julie and Quentin is immediate, but his visit to his hometown is prompted by more than a longing to get away from the stress of business. His largest client has unsuccessfully tried to buy Julie's property. The ruthless company indicates to Quentin that if he does not talk her into selling, they ll drive her out of business. The ultimatum is an overwhelming burden on Quentin.
+
+				Can the growing affection between Julie and Quentin survive the pressures of a harsh outside world?</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+	<name><author_first_name>Paul Antony</author_first_name>
+	<author_last_name>Jones</author_last_name></name>
+		<picture>
+			<image source="images/jones" />
+		</picture>
+		<biography>A native of Cardiff, Wales, Paul Antony Jones now resides near Las Vegas, Nevada, with his wife. He has worked as a newspaper reporter and commercial copywriter, but his passion is penning fiction. A self-described science geek, he's a voracious reader of scientific periodicals, as well as a fan of things mysterious, unknown, and on the fringe. That fascination inspired Extinction Point, his first novel in a proposed series following heroine Emily Baxter's journey into the bizarre new alien world our earth has become. The first sequel, Extinction Point: Exodus is now available.</biography>
+			<book_title><title>Extinction Point (Extinction Point Series Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/jones1" />
+				</book_cover>
+				<book_description>First comes the red rain: a strange, scarlet downpour from a cloudless sky that spreads across cities, nations, and the entire globe. In a matter of panicked hours, every living thing on earth succumbs to swift, bloody death. Yet Emily Baxter, a young newspaper reporter, is mysteriously spared—and now she’s all alone.
+
+				But watching the happy life she built for herself in New York City slip away in the wake of a monstrous, inexplicable plague is just the beginning of Emily’s waking nightmare. The world isn’t ending; it’s only changing. And the race that once ruled the earth has now become raw material for use by a new form of life never before seen…on this planet.
+
+				With only wits, weapons, and a bicycle, Emily must undertake a grueling journey across a country that’s turning increasingly alien. For though she fears she’s been left to inherit the earth, the truth is far more terrifying than a lifetime of solitude.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>science fiction</genre><genre>post apocalyptic</genre><genre>horror</genre>
+</author>
+<author>
+			<book_title><title>Exodus (Extinction Point Series Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/jones2" />
+				</book_cover>
+				<book_description>Reporter Emily Baxter survived the alien red rain that blanketed and annihilated the human race. But after the downpour, and the lethal contagion it spread, came an even greater horror: the rampant transformation of the dead into something utterly unearthly.
+
+				With a terrifying new form of life emerging from the mutated landscape, Emily’s only hope is to flee toward distant Alaska where she can unite with the survivors who have reached out to her from a remote science facility. The journey from New York will be long and painstaking, and Emily has only her faithful dog and whatever she can carry. But, after discovering a small family of refugees along the way, Emily’s determination to escape the unfolding catastrophe and carve out a new future is renewed. Standing in their way are Earth’s new masters, equally determined to survive and thrive, and possessed of monstrous capabilities Emily and her allies can’t begin to imagine…until they’re face to face with the hideous reality.
+
+				In the battle about to begin, there will be no room for mistakes or mercy—only the most ruthless instincts to survive.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>science fiction</genre><genre>post apocalyptic</genre><genre>horror</genre>
+</author>
+<author>
+			<book_title><title>Revelations (Extinction Point Series Book 3)</title></book_title>
+			<book_cover>
+					<image source="cover/jones3" />
+				</book_cover>
+				<book_description>There is nowhere left to run. In the wake of the deadly plague that virtually annihilated the human race, a vast red jungle teeming with alien creatures and lethal plants is devouring Earth, swallowing buildings whole and ruthlessly decimating what life remains. A witness to the terrifying transformation, survivor Emily Baxter thinks the odds against humanity can’t get any worse.
+
+				She is wrong.
+
+				The thrilling conclusion to the bestselling Extinction Point series, Revelations takes a humanity on the brink 	of devastation…and throws it over the edge!</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>science fiction</genre><genre>post apocalyptic</genre><genre>horror</genre>
+</author>
+<author>
+	<name><author_first_name>A. R.</author_first_name>
+	<author_last_name>Kahler</author_last_name></name>
+		<picture>
+			<image source="images/kahler" />
+		</picture>
+		<biography>Alex is many things, but first and foremost, he's a Sagittarius.
+
+		In the past few years he's taught circus in Amsterdam and Madrid, gotten madly lost in the Scottish wilderness, drummed with Norse shamans, and received his Masters in creative writing from Glasgow University. And that's the abbreviated list.
+
+		He is the author of the tantalizing CIRQUE DES IMMORTELS trilogy, which debuted in 12/12 from 47North.
+		MARTYR, the first book in his post-apocalyptic YA fantasy series, THE HUNTED, will be published 10/14 by Spencer Hill Press.
+
+		When he's not writing or climbing in the rafters, he's probably outside, staring at the clouds. And seeing as he now resides in Seattle, there are clouds aplenty.
+
+		He is represented by Laurie McLean of Foreword Literary.</biography>
+			<book_title><title>The Immortal Circus: Act One (Cirque des Immortels Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/kahler1" />
+				</book_cover>
+				<book_description>Murdered contortionists aren’t exactly what Vivienne signed up for when she ran away to join the circus. But like most things under the big top, nothing is what it seems. With a past she can't quite remember, Vivienne finds that running away forever might not be as appealing as it once sounded—because forever means something quite different at the Cirque des Immortels.
+				Aided by her friends Kingston—a feisty stage magician whose magic is quickly stealing her heart—and his sarcastic assistant Melody, Vivienne finds herself racing against the clock to discover the culprit behind a series of deaths that should be impossible. However, the answer she seeks might reveal more about her own bloody past—and future—than she bargains for.
+
+				The show's just beginning. 
+
+				Step right up...</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>fantasy</genre><genre>paranormal</genre><genre>mystery</genre>
+</author>
+<author>
+			<book_title><title>The Immortal Circus: Act Two (Cirque des Immortels Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/kahler2" />
+				</book_cover>
+				<book_description>Vivienne is almost content with her new life in the Cirque des Immortels. She has moved up from selling cotton candy to telling fortunes, she has a gorgeous, magical boyfriend, Kingston...and no one has been murdered since the clash between the otherworldly Courts. Her life under the faerie big top would be perfect, in fact, if not for the nightmares and visions that compel her to seek and confront her half-remembered past. But for Viv, not knowing her past may well be a blessing. There's a reason she ran away. But can she truly escape herself?
+				The second act of the fantastically evocative Cirque des Immortels series, The Immortal Circus: Act Two draws readers further into a world that’s at once wonderful, seductive...and deadly.
+
+				Step right up...</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>fantasy</genre><genre>paranormal</genre><genre>mystery</genre>
+</author>
+<author>
+			<book_title><title>The Immortal Circus: Final Act (Cirque des Immortels Book 3)</title></book_title>
+			<book_cover>
+					<image source="cover/kahler3" />
+				</book_cover>
+				<book_description>Despite Vivienne’s broken heart and deadly truths, the show must go on at the Cirque des Immortels. But it takes more than glamour and sex appeal to keep the Big Top running; without the magic and support Viv came to rely on, the circus is in danger. Now the troupe verges on rebellion, the war between Mab and Oberon rages on, and a horrifying menace looms—with Vivienne stuck in the middle of it all.
+
+				When Mab’s manipulations put others at risk, Viv has to decide where her heart lies. Everything depends on her choices. How can she know her true desires? And will she have what it takes to fight the demons she must face?
+
+				New possibilities and old passions collide in this ravishing grand finale to the trilogy that began with The Immortal Circus and The Immortal Circus: Act Two.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>fantasy</genre><genre>paranormal</genre><genre>mystery</genre>
+</author>
+<author>
+	<name><author_first_name>William</author_first_name>
+	<author_last_name>Lashner</author_last_name></name>
+		<picture>
+			<image source="images/lashner" />
+		</picture>
+		<biography>William Lashner is the New York Times Bestselling creator of Victor Carl, who has been called by Booklist one of the mystery novel's "most compelling, most morally ambiguous characters." The Victor Carl novels, which have been translated into more than a dozen foreign languages and have been sold all across the globe, include BAGMEN, KILLER'S KISS, FALLS THE SHADOW, FATAL FLAW, and HOSTILE WITNESS. He is also the author of BLOOD AND BONE, THE ACCOUNTING, and, most recently, THE BARKEEP, which was a Digital Book World Number One Bestselling Ebook.
+
+		Lashner was a criminal prosecutor with the Department of Justice in Washington D.C. before quitting the law to write fulltime. A graduate of the New York University School of Law, as well as the Iowa Writers' Workshop, he lives with his wife and three children outside Philadelphia.</biography>
+			<book_title><title>The Accounting</title></book_title>
+			<book_cover>
+					<image source="cover/lashner1" />
+				</book_cover>
+				<book_description>Jon Willing was just a teenager when he and his pals Augie and Ben stole a fortune in drug money. Brazen with youth and stoned out of their gourds, they thought they had the perfect plan for getting away with it.
+
+				They were wrong.
+
+				Twenty-five years later, Jon’s marriage is on the rocks, his kids are virtual strangers, and the recession has taken his job and decimated his finances. Worst of all, when he finds Augie murdered in Vegas, he knows the past has risen from its grave to grab him by the throat.
+
+				The battle that ensues will send Jon skittering across a landscape wracked by the Great Recession to confront the demons of his past: the grade-school bully who has terrorized him for decades, the grandfather that betrayed him, the girl that got away. And in the middle of a fight to death, with his daughter’s life hanging in the balance, Jon Willing learns the most brutal of truths:
+
+				The piper always gets paid, and sometimes he gets paid in blood.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>mystery</genre><genre>thriller</genre><genre>crime</genre>
+</author>
+<author>
+			<book_title><title>The Barkeep</title></book_title>
+			<book_cover>
+					<image source="cover/lashner2" />
+				</book_cover>
+				<book_description>Justin Chase is the perfect barkeep, tending bar as he lives his life, in a state of Zen serenity. At least until Birdie Grackle, a yellow-haired, foul-mouthed alcoholic from Texas, walks into his bar, orders a Mojito, and makes a startling confession.
+
+				Six years ago Justin's life was ripped apart when he discovered his mother's bludgeoned corpse in the foyer of the family home. Now Justin's father is serving a life sentence and Justin, after a stint in the asylum, drowns his emotions in a pool of inner peace. But when Birdie Grackle claims to be the hit man who murdered Justin's mother for the money, Justin is hurled back to the emotions, back to the past, and, most frighteningly of all, back to the father he has tried to leave behind.
+
+				Who hired Birdie Grackle to kill Justin's mother? As Justin pieces together the truth, a merciless killing machine begins stalking the barkeep, leaving a trail of dead in his wake. Someone wants to bury the truth, and maybe Justin, too. As the terror closes in, Justin had better find some answers and find them fast, because the stakes have been raised, his life is on the line, and murder is so not Zen.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>mystery</genre><genre>thriller</genre><genre>suspense</genre>
+</author>
+<author>
+			<book_title><title>Bagmen (A Victor Carl Novel)</title></book_title>
+			<book_cover>
+					<image source="cover/lashner3" />
+				</book_cover>
+				<book_description>Victor Carl is back, and back in trouble. At a low point in his lowly career, Victor finds himself skulking through the streets of Philadelphia carrying a bag full of money for an ambitious politician. It is a rotten job on the wrong side of anyone’s line, but with bag in hand Victor is suddenly hobnobbing with the city’s elite, filling his bank account, and having sex with the politician’s gorgeous and deranged sister. But just when Victor begins to think he’s got a future in the political game, one of his payoffs ends up in the pocket of a dead woman, and Victor goes from bagman to fall guy. Now Victor’s only way out might lie with a brotherhood of shady characters with sacks full of cash, bad fedoras, and their own twisted set of rules. Will Victor’s new friends help him find a killer or bury him deep?</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>thriller</genre><genre>mystery</genre>
+</author>
+<author>
+	<name><author_first_name>Shea</author_first_name>
+	<author_last_name>Macleod</author_last_name></name>
+		<picture>
+			<image source="images/macleod" />
+		</picture>
+		<biography>Shéa MacLeod is the author of urban fantasy post-apocalyptic scifi paranormal romances with a twist of steampunk. She has dreamed of writing novels since before she could hold a crayon. She totally blames her mother.
+
+		After a six year sojourn in London, England, a dearth of good donuts has driven her back to her hometown. She now resides in the leafy green hills outside Portland, Oregon where she indulges in her fondness for strong coffee, Ancient Aliens reruns, lemon curd, and dragons.
+
+		Because everything's better with dragons.</biography>
+			<book_title><title>Kissed by Darkeness (Sunwalker Saga Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/macleod1" />
+				</book_cover>
+				<book_description>Three years ago, Morgan Bailey narrowly survived a vampire attack that left her with heightened senses, uncanny speed, and a new calling: supernatural bounty hunter. Since that day, sexy, street-smart Morgan hasn’t met a vampire she couldn’t dust or a demon she couldn’t kill—until she’s hired to hunt down a priceless amulet and the sunwalker who stole it. Sunwalkers—powerful vampires immune to sunlight—are notoriously difficult to find, let alone kill. Still, a job’s a job, and Morgan’s never been one to shy away from a challenge. So bring it on…right?
+
+				But the sunwalker ends up tracking her down. And not only that, he turns out to be cunning, charming—and undeniably gorgeous. Nevertheless, she can’t ignore the destruction he is capable of: the sunwalker possesses an ancient secret which, if unleashed, could destroy the human world. Captivating and fantastical, Kissed by Darkness introduces a kick-ass new heroine and an addictive new series for fans of urban fantasy.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>fantasy</genre><genre>romance</genre><genre>paranormal</genre>
+</author>
+<author>
+			<book_title><title>Kissed by Fire (Sunwalker Saga Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/macleod2" />
+				</book_cover>
+				<book_description>As a vampire bounty hunter, Morgan Bailey has seen her fair share of strange things. There was the time she got mixed up with a race of powerful immortals known as sunwalkers. Then there was that time she hooked up with a gorgeous Templar Knight. And oh yeah, she was also the one who uncovered the secrets of an Atlantean artifact that everyone was killing each other over. So she’s confident there’s no supernatural challenge she can’t handle—until now.
+
+				When a murder investigation leads Morgan to London, she encounters something she never expected to see: dragons. It seems they might not be so extinct after all. Her one chance of preventing certain carnage if the dragons are unleashed is to confront the truth about her own past, and about the Darkness growing inside of her.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>fantasy</genre><genre>romance</genre><genre>paranormal</genre>
+</author>
+<author>
+			<book_title><title>Kissed by Smoke (Sunwalker Saga Book 3)</title></book_title>
+			<book_cover>
+					<image source="cover/macleod3" />
+				</book_cover>
+				<book_description>After what can only be described as a momentous year, vampire bounty hunter Morgan Bailey is looking forward to a nice, quiet birthday. But fate has other plans. Instead of gorging on cupcakes and enjoying a private party for two with her sexy new boyfriend, Morgan is hot on the trail of a sidhe—a subspecies of fae—who’s run amok in Portland. But this is no ordinary fairy; he is as powerful as he is psychotic. And considering the supernatural nutjobs Morgan has dealt with in her time, that’s saying something.
+
+				To take him down, Morgan forms an uneasy alliance with the Fairy Queen and embarks upon her most outrageous adventure yet. But in the midst of the chaos, Morgan realizes there is more to this sidhe than meets the eye. And if she fails, if he achieves his endgame, it will trigger devastation unlike anyone—or anything, human or otherwise—has ever seen.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>fantasy</genre><genre>romance</genre><genre>paranormal</genre>
+</author>
+<author>
+	<name><author_first_name>Nick</author_first_name>
+	<author_last_name>Nolan</author_last_name></name>
+		<picture>
+			<image source="images/nolan" />
+		</picture>
+		<biography>Multi-award winning author Nick Nolan was born into an Irish Catholic family in the suburbs of Los Angeles, where he grew up mowing lawns, washing cars, and wishing he weren't gay. Finally at peace with his sexual orientation, Nolan met his partner Jaime in 1987, fell in love, and began building a life with him. After graduating with a degree in Psychology, Nick began working with homeless youth and, inspired by the works of author Paul Monette, started penning his first novel. Nolan's modern fairy tales now comprise the "Tales from Ballena Beach" series. Today Nick, Jaime and their two beloved retrievers divide their time between their home in the San Fernando Valley and a mountaintop cabin.</biography>
+			<book_title><title>Black as Snow</title></book_title>
+			<book_cover>
+					<image source="cover/nolan1" />
+				</book_cover>
+				<book_description>Sebastian Black is a god amongst men: he’s devastatingly handsome and charismatic—and telepathic. So when his scheming mother, prophetess Kitty Black, announces that her son is the “next species of man,” the world begins taking notice. Together, Kitty and Sebastian forge a spiritual movement that celebrates “divine evolution” while warning of a mass extinction. But just as their fame and wealth are building, a tragedy befalls one of Sebastian’s disciples, and threats from Christian militants become too real to ignore.
+
+				Sebastian flees Los Angeles—and his mother—in search of peace and freedom. One by one he encounters “common” people who astonish him with their uncomplicated stories of love and compassion: an aging lesbian couple; a Mexican handyman; a shy, anorexic woman; a recovering meth addict; a gay teenager; and an unthinking college jock. Surprisingly, each has a profound effect upon this arrogant young “messiah.”
+
+				As Sebastian drifts further away from Kitty, she becomes more determined to preserve their celebrity status and glittering lifestyle. She sets out to reel Sebastian back to her—even if it means conspiring with his enemies, in particular a dashing young Spaniard who darkly mirrors Sebastian’s supernatural talents and good looks. But not even the telepathic Sebastian can foresee what happens next.
+
+				From the sleek penthouses of Century City to the savage coastline of Big Sur, Black as Snow twists the beloved fairy tale of Snow White into a suspense-filled story of intrigue, spirituality, and greed…and the unstoppable power of everyday love.</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>fairy tale</genre><genre>fantasy</genre><genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Strings Attached (Tales from Ballena Beach Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/nolan2" />
+				</book_cover>
+				<book_description>Adolescence is a hazardous way of life for 17-year-old Jeremy Tyler; his father died in a mysterious accident when he was a child, and his mother has since descended into alcoholic hell and forced rehab; that's when he's sent from the Fresno slums of his childhood to the posh estate of his overbearing great aunt Katherine and her censorious husband7mdash;liberated from an economic prison, only to land in an emotional one--and is overwhelmed by the change. It's not easy for him to fit into the upper crust, particularly because he's trying to hide how much he's attracted to other boys. Jeremy's story of breaking free from the strands of dishonesty, deceit, and self-doubt has its parallels to the tale of Pinocchio, but Nolan's take is totally contemporary: think the TV series The OC--girls with mean cheekbones, well-built guys with snotty attitudes, and Jeremy in the role of heartthrob Ryan Atwood. He's a good-looking kid, with a sleek swimmer's physique--and the swim team's champ is out to get him. He dates one of the smart-set girls in an attempt to keep his hormones at bay--but that doesn't do him much good. Nolan's debut novel is a kitchen sink of genres--coming of age, coming out, mystery, romance, erotica, even a dash of the supernatural--that add up to an impressive story about the passage from boyhood to manhood.</book_description>
+					<year><year_published>2010</year_published></year>
+					<genre>romance</genre><genre>young adult</genre><genre>lgbt</genre>
+</author>
+<author>
+			<book_title><title>Double Bound (Tales from Ballena Beach Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/nolan3" />
+				</book_cover>
+				<book_description>Nick Nolan’s Double Bound reunites us with many of the characters introduced in his delightful Strings Attached: Jeremy, now in a committed relationship with fun-loving, hotheaded Carlo; Arthur, Jeremy’s protector, confidant, and mentor; and Katharine, Jeremy’s wealthy benefactress, still hiding a slew of secrets and hidden agendas. This sequel displays the same wit, verve, style, and sense of adventure that were so engaging and fresh in Strings Attached. And where Strings Attached playfully alluded to Pinocchio, Double Bound has fun with the Jack and the Beanstalk fable.
+				Just as Strings Attached was Jeremy’s story, Double Bound is Arthur’s, exploring his troubled relationship with disapproving parents and his precarious years as a troubled Marine. However, there’s an added element this time out—the stakes are higher, the repercussions more dire, and the choices harder and more consequential. There is a darker feel to this novel, which not only adds depth to the characters but highlights Mr. Nolan’s growth and confidence as a storyteller. We’ve moved beyond high school concerns into real-world choices, where outcomes are not always tied up in neat "happily ever after" packages.</book_description>
+					<year><year_published>2010</year_published></year>
+					<genre>romance</genre><genre>young adult</genre><genre>lgbt</genre>
+</author>
+<author>
+			<book_title><title>Wide Asleep (Tales from Ballena Beach Book 3)</title></book_title>
+			<book_cover>
+					<image source="cover/nolan4" />
+				</book_cover>
+				<book_description>Arthur Blauefee promised to stay away from Jeremy Tyler forever. But when he learns that his troubled, heartbroken ex-lover has been seduced and swindled out of his inheritance, Arthur is off to the rescue.
+
+				After rekindling their passionate affair, the starry-eyed lovers learn that Jeremy’s plight has gone from terrible to worse. Not only has Jeremy been cheated out of his fortune, he’s been framed for murder. Desperate to clear Jeremy’s name, the pair travels to Greece in pursuit of the nefarious conman Lazzaro Sforza and enters a shady world of designer drugs and international intrigue.
+
+				Aided by the powerful hallucinogen Sueño Gris, Jeremy journeys into his past lives. Hopscotching through time, from the Civil War all the way back to the Roman Empire, Jeremy discovers that Lazzaro has betrayed him many times before. Can Arthur and Jeremy finally trump the scheming Lazzaro, or are they doomed to repeat their ill-fated pasts?</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>romance</genre><genre>young adult</genre><genre>lgbt</genre>
+</author>
+<author>
+	<name><author_first_name>Beth</author_first_name>
+	<author_last_name>Orsoff</author_last_name></name>
+		<picture>
+			<image source="images/orsoff" />
+		</picture>
+		<biography>Beth Orsoff is the author of humorous fiction including the novels "Romantically Challenged," "Honeymoon for One," "Girl in the Wild" (formerly "How I Learned to Love the Walrus"), "Disengaged," "Vlad All Over," and "Vlad to the Bone." 
+
+		When Beth isn't traveling the world looking for story ideas (yes, she really did go to Transylvania!) she can be found at her home in Los Angeles alternately glued to her computer screen and her television screen. For more information about Beth and her celebrity sightings (George Clooney anyone?) check out her website.</biography>
+			<book_title><title>Disengaged</title></book_title>
+			<book_cover>
+					<image source="cover/orsoff1" />
+				</book_cover>
+				<book_description>Allie Zenet has nabbed a sparkly diamond ring and the handsome studio exec fiancé that goes with it. Unfortunately that package also includes a domineering future mother-in-law and serious wedding jitters.
+
+				The thirty-two-year-old Los Angeles entertainment accountant would rather elope, but fiancé Brad seems incapable of saying “no” to mommy’s wedding demands. Allie wonders if anyone knows—or cares—that she is the one who’s getting married.
+
+				Her closest friends are too engrossed in their own messy love lives to offer any guidance, and Allie’s mother’s views on marriage would make a strident feminist blush. The only one who seems interested in what Allie thinks is a good-looking acquaintance by the name of Jax Montgomery. But Jax’s attentions have Allie questioning just what it is she truly wants.
+
+				Beth Orsoff’s hilarious and heartfelt romp Disengaged is all about getting to “I do” by saying “I won’t.”</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Girl in the Wild</title></book_title>
+			<book_cover>
+					<image source="cover/orsoff2" />
+				</book_cover>
+				<book_description>When Los Angeles publicist Sydney Green convinces her boss to let her produce a documentary for the Save the Walrus Foundation, the only thing she is really interested in saving is herself. Sydney sees the walrus as merely a means to improving her career and her love life—and not necessarily in that order. For any other client Sydney would’ve killed the project the second she learned she’d be the one having to spend a month in rural Alaska, but for rising star, and sometimes boyfriend Blake McKinley, no sacrifice is ever too great.
+
+				Yet, a funny thing happens on the way to the Arctic. A gregarious walrus pup, a cantankerous scientist, an Australian sex goddess, a Star Wars obsessed six-year-old, and friends and nemeses both past and present rock Sydney Green’s well-ordered world. Soon Sydney is forced to choose between doing what’s easy and doing what’s right.
+
+				Beth Orsoff’s Girl in the Wild is a bright, comical tale of ambition, romance…and walruses.</book_description>
+					<year><year_published>2010</year_published></year>
+					<genre>romance</genre><genre>humor</genre>
+</author>
+<author>
+			<book_title><title>Honeymoon for One</title></book_title>
+			<book_cover>
+					<image source="cover/orsoff3" />
+				</book_cover>
+				<book_description>Being ditched at the altar is the least of Lizzie Mancini’s problems. Sitting in a Caribbean jail cell accused of murdering her “pretend” husband, however, is at the top of the list.
+
+				After her real groom jilts her, Lizzie decides to go solo on their Belize honeymoon and meets handsome Michael Garcia, who is nursing his own heartache. To avoid the bleakness of dining and sightseeing alone, as well as questions from nosy, if well-meaning, fellow guests at the couples-only resort, the two agree to pose as newlyweds for the week—no strings (or sex) attached.
+
+				The plan runs smoothly until Lizzie enjoys the attentions of the local scuba instructor and Michael’s body washes ashore. Suddenly the “Mrs.” is mistakenly ID’d as suspect numero uno. With the Polizia Nationale ready to close the case and cook her goose, Lizzie will have to solve the crime herself.
+
+				Unexpected romance and international intrigue are center stage in Beth Orsoff’s mystery caper that takes “’til death do us part” to a whole new level.</book_description>
+					<year><year_published>2010</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Vlad All Over</title></book_title>
+			<book_cover>
+					<image source="cover/orsoff4" />
+				</book_cover>
+				<book_description>Gwen Andersen loves being a schoolteacher, but she isn’t exactly raking in the big bucks. With her bank account shrinking by the minute, she needs a well-paying summer job if she’s going to hold onto the childhood home she inherited from her parents. So when the father of one of her students asks her to fill in as his au pair for the summer, she knows she should be thrilled. Alexander Romanescu is loaded, and Gwen adores his daughter Isabella. Plus, they’re planning to spend the vacation at their ancestral estate—in Romania!
+				And yet Gwen can’t shake the nagging feeling that saying yes to this man could lead to more than she bargained for. She knows so little about him—and the idea of spending six weeks in the land of Dracula and Vlad the Impaler is more than a little creepy. But the legends of Romania will be the least of her concerns if she doesn’t make some money…fast. And so Gwen says yes: yes to the job, yes to a European excursion…and yes to a summer that will change her path forever.
+
+				With her trademark crackling dialogue, exotic locations, and knack for realistic characters, women’s fiction author Beth Orsoff delivers an engrossing tale of love, intrigue, and betrayal. This is not your typical chick lit tale. This is something new. This is gothic chick lit.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+	<name><author_first_name>Jessica</author_first_name>
+	<author_last_name>Park</author_last_name></name>
+		<picture>
+			<image source="images/park" />
+		</picture>
+		<biography>Jessica is the author of LEFT DROWNING, the New York Times bestselling FLAT-OUT LOVE (and the companion piece FLAT-OUT MATT), and RELATIVELY FAMOUS. She lives in New Hampshire where she spends an obscene amount time thinking about rocker boys and their guitars, complex caffeinated beverages, and tropical vacations. On the rare occasions that she is able to focus on other things, she writes.</biography>
+			<book_title><title>Flat-Out Love</title></book_title>
+			<book_cover>
+					<image source="cover/park1" />
+				</book_cover>
+				<book_description>He was tall, at least six feet, with dirty blond hair that hung over his eyes. His T-shirt read Nietzsche Is My Homeboy.
+
+				So, that was Matt.  Who Julie Seagle likes. A lot.  But there is also Finn.  Who she flat out loves.
+
+				Complicated? Awkward?  Completely.
+
+				But really, how was this freshly-minted Boston transplant and newbie college freshman supposed to know that she would end up living with the family of an old friend of her mother's? This was all supposed to be temporary.  Julie wasn't supposed to be important to the Watkins family, or to fall in love with one of the brothers.  Especially the one she's never quite met. But what does that really matter?  Finn gets her, like no one ever has before. They have connection.
+
+				But here's the thing about love, in all its twisty, bumpy permutations—it always throws you a few curves.  And no one ever escapes unscathed.
+
+				New York Times best-selling author Jessica Park mines the territory of love’s growing pains with wit, sharp insights, and a discernible heat and heartbeat. Her previous novels include Relatively Famous, and she authored the e-shorts What the Kid Says (Parts 1 and 2) and Facebooking Rick Springfield.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre><genre>young adult</genre><genre>humor</genre>
+</author>
+<author>
+			<book_title><title>Left Drowning</title></book_title>
+			<book_cover>
+					<image source="cover/park2" />
+				</book_cover>
+				<book_description>What does it take to rise from life’s depths, swim against the current, and breathe?
+				Weighted down by the loss of her parents, Blythe McGuire struggles to keep her head above water as she trudges through her last year at Matthews College. Then a chance meeting sends Blythe crashing into something she doesn’t expect—an undeniable attraction to a dark-haired senior named Chris Shepherd, whose past may be even more complicated than her own. As their relationship deepens, Chris pulls Blythe out of the stupor she’s been in since the night a fire took half her family. She begins to heal, and even, haltingly, to love this guy who helps her find new paths to pleasure and self-discovery. But as Blythe moves into calmer waters, she realizes Chris is the one still strangled by his family’s traumatic history. As dark currents threaten to pull him under, Blythe may be the only person who can keep him from drowning.</book_description>
+					<year><year_published>2013</year_published></year>
+					<genre>romance</genre><genre>young adult</genre>
+</author>
+<author>
+	<name><author_first_name>Ryan</author_first_name>
+	<author_last_name>Quinn</author_last_name></name>
+		<picture>
+			<image source="images/quinn" />
+		</picture>
+		<biography>A native of Alaska, Ryan Quinn was an NCAA champion and an all-American skier while at the University of Utah. He worked for five years in New York's book-publishing industry before moving to Los Angeles, where he writes and trains for marathons. Quinn's first novel, The Fall, was a finalist in the 2013 International Book Awards. </biography>
+			<book_title><title>The Fall</title></book_title>
+			<book_cover>
+					<image source="cover/quinn1" />
+				</book_cover>
+				<book_description>The new school year at Florence University, nestled in the Pennsylvania countryside, dawns bright with the possibilities that only a fresh start can bring. For three students in particular, it will be a year unlike any other, one that will alter the courses of their lives forever. There is Ian, the film buff trying to figure out his life—and how to catch the eye of the football player he can’t stop fantasizing about; Casey, the local football star whose future off the field is frustratingly uncertain; and Haile, the classical-music prodigy seeking refuge from a past life so that she may start anew as a singer-songwriter. Together the trio will form a fateful friendship, recounted through alternating first-person narratives. Sexy, fast-paced, and layered with intimate insight about life’s most formative years, The Fall is a compelling and contemporary coming-of-age story about what happens when we are forced for the first time to really confront who we are and who we want to become.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>lgbt</genre><genre>young adult</genre><genre>romance</genre>
+</author>
+<author>
+			<book_title><title>End of Secrets</title></book_title>
+			<book_cover>
+					<image source="cover/quinn2" />
+				</book_cover>
+				<book_description>Though her specialty is foreign cyberterrorism, CIA agent Kera Mersal finds herself plunged into a bizarre domestic case. Singers, writers, and artists are disappearing, leaving no trace in a world where everyone leaves a digital footprint. Posing as a journalist, Kera attempts to track the artists’ last-known movements.
+
+				On a hunt that takes her from the underground art scene to a rogue domestic spying program, Kera finds her investigation on a deadly collision course with ONE Corp., the world’s largest multimedia conglomerate. As she’s drawn deeper into the investigation, she discovers that an enigmatic young ad exec, a wealthy playboy, and a mysterious website may connect the missing artists and ONE’s growing power. And with each discovery comes confirmation of a terrifying truth—no one’s secrets are safe.
+
+				A smartly suspenseful and timely thriller, End of Secrets dives into the depths of our culture’s two most relentless obsessions: entertainment and profit.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>thriller</genre><genre>mystery</genre><genre>suspense</genre>
+</author>
+<author>
+	<name><author_first_name>Susan</author_first_name>
+	<author_last_name>Ralph</author_last_name></name>
+		<picture>
+			<image source="images/ralph" />
+		</picture>
+		<biography>Susan Ralph grew up in Michigan. After graduating from Western Michigan U., she took a clerical job with the CIA in Washington D.C.
+
+		Married to a career Air Force Officer, she's lived in Texas, California, Louisiana, Virginia, Ohio, North Carolina, and Hawaii. She is the mother of four daughters and the grandmother of four granddaughters and one grandson.
+
+		In 2011, she and her husband celebrated their fiftieth wedding anniversary.</biography>
+			<book_title><title>Bed and Breakfast Blues</title></book_title>
+			<book_cover>
+					<image source="cover/ralph1" />
+				</book_cover>
+				<book_description>Honey Benton is a twenty-eight-year old third-grade teacher who lives alone. Tired of wasting time with the wrong men and halfway through her voluntary yearlong sabbatical from dating, she adopts Bowser, a rescue dog. Not only is her dog a loving and protective companion, he senses her moods and respects them. He has simple needs and is undemanding and very reliable. Now if she could just find a man with these attributes, her life would be complete.
+				Ace Sanford, who turns up at the wrong time, makes her knees tremble, and insists on getting his way all the time, isn't that man. Yet he puts her commitment to her sabbatical to the test. Then, when he charms her dog into going over to his side, she knows she's in trouble.</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Brompton Manor</title></book_title>
+			<book_cover>
+					<image source="cover/ralph2" />
+				</book_cover>
+				<book_description>Accepting an invitation from her estranged grandmother, the countess of Brompton, Amilie Jasperton comes to Brompton Manor and finds herself faltering in a world of privilege that unravels her common sense. She has grown up the daughter of an impoverished vicar, but now, after his death, she will become a lady.
+				Enchanted by this naive and charming creature, Colin Fitzhugh nonetheless readies to leave his beloved Brompton Manor, where he has been serving as the Earl's ward. The earl's health is in a steady decline. Because Fitzhugh is not an heir, he has no choice but to quit the estate he has come to care for as if it were his own.
+
+				But what once seemed simple is now clouded by his growing affection for Amilie. And Amilie finds she does not quite fit into this new society, which is confusing and strange. The handsome and funny Fitzhugh makes her feel more like herself again.
+
+				When they learn she is intended to marry the new heir, they must find a way to cheat tradition in a place that upholds it to a fault.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre><genre>historical fiction</genre>
+</author>
+<author>
+			<book_title><title>A Sprig of Lavender</title></book_title>
+			<book_cover>
+					<image source="cover/ralph3" />
+				</book_cover>
+				<book_description>Catherine Sutton is crushed when she fails to attract a marriage proposal after her first coming-out season. Since her viscount father passed away, the family’s resources have dwindled, and she dreads becoming a destitute spinster. But when she’s invited to the Duke of Mumshire’s country estate—where she’ll be considered for the heir’s hand—hope returns.
+
+				A trip to the country will also take her mind off the crime she’d witnessed at the last event of the season—an unbearably handsome stranger stealing a lady’s purse. Catherine and the thief locked gazes in the middle of the act, and while she was quickly been swept away by the crowd, later that night she was introduced to the thief, Henri LaFleur. Now he knows her name and can force her silence.
+
+				Catherine shakes the memory…until LaFleur shows up as a fellow guest at the Duke of Mumshire’s estate. This time, though, she finds herself terribly, inexplicably drawn to this thief. But is LaFleur who he seems?</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Starting from Scratch</title></book_title>
+			<book_cover>
+					<image source="cover/ralph4" />
+				</book_cover>
+				<book_description>The usually reliable and compliant Agatha Marple decides to dump her two-timing fiancé and run away from the small town and the eccentric family stifling her dreams. Settling in a large city, she embarks on a mission of self-improvement: Healthy food, daily exercise, meditation, and positive thoughts. But Agatha's careful plans get thrown into turmoil when her eccentric grandmother and the man of her dreams show up and keep her off balance along with a tempting bakeshop whose specialty are freshly made, mouth-watering donuts!</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+	<name><author_first_name>Tom</author_first_name>
+	<author_last_name>Schreck</author_last_name></name>
+		<picture>
+			<image source="images/schreck" />
+		</picture>
+		<biography>Tom Schreck is the author of five novels, including On the Ropes, TKO, Out Cold, The Vegas Knockout and Getting Dunn. He graduated from the University of Notre Dame and has a master's degree in psychology--and a black belt. He previously worked as the director of an inner-city drug clinic and today juggles several jobs: communications director for a program for people with disabilities, adjunct psychology professor, freelance writer, and world championship boxing official. He lives in Albany, New York, with his wife.
+
+		Publisher's Weekly called the Duffy Series, "Fresh, intense and funny...Duffy delivers a knockout punch." Kirkus said they were "Refreshingly iconoclastic." Crimespree Magazine said, "One of the five best books I read this year."</biography>
+			<book_title><title>Getting Dunn</title></book_title>
+			<book_cover>
+					<image source="cover/schreck1" />
+				</book_cover>
+				<book_description>When TJ Dunn enlisted in the US Army, she knew the combat and emotional risks. Six years earlier her father, an army veteran, killed himself. But TJ is tough, determined to carry her own weight as a soldier, until one day when her team is ambushed during a mission in Iraq. As the only survivor, TJ is left both physically and psychologically traumatized. Yet even as she struggles to come to terms with the loss of her friends, she receives another devastating blow: her fiancé, stationed in Afghanistan, has taken his own life.
+
+				Discharged from the army and back in the States, TJ is unable to cope. She spirals into an emotional daze, spending her days working at a suicide hotline and her evenings moonlighting as an exotic dancer. Her only outlet for her anger is a punching bag at the local boxing ring where she works out with a handsome trainer, Duffy. 
+
+				Just when she thinks she’s reached her limit, an anonymous phone call shocks her back to life and gives her a new mission, justice for those she loves and she won’t stop at anything to do it. 
+
+				Getting Dunn is a tension-filled military thriller that brings the reader ingives insight into the mind of a struggling soldier fighting for her life.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>military</genre><genre>thriller</genre><genre>mystery</genre>
+</author>
+<author>
+			<book_title><title>The Vegas Knockout</title></book_title>
+			<book_cover>
+					<image source="cover/schreck2" />
+				</book_cover>
+				<book_description>Duffy Dombrowski just accepted a dream job: chief sparring partner for Russian heavyweight contender Boris Rusakov in Vegas. His obstinate basset hound, Al, and a few friends join Duffy for the ride—but before Duffy knows it, his trip turns into a nightmare. Someone’s killing local Mexican workers, friends and relatives of Duffy’s gym buddies. And to make matters worse, Duffy’s got Boris’s Russian mobster pals chasing him with murder on their minds.
+				Quirky characters, rapid-fire dialogue, and nonstop action propel The Vegas Knockout into the sphere of gritty thrillers that hit with astonishing power.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>sports</genre><genre>humor</genre><genre>crime</genre><genre>thriller</genre>
+</author>
+<author>
+	<name><author_first_name>Harold</author_first_name>
+	<author_last_name>Taw</author_last_name></name>
+		<picture>
+			<image source="images/taw" />
+		</picture>
+		<biography>Harold Taw is the author of the novel Adventures of the Karaoke King. His writing has been featured on NPR, in a New York Times bestselling anthology and in The Seattle Times; his screenplay Dog Park has garnered recognition in domestic and international film festivals and competitions. Harold is currently completing a novel about a turbulent adolescence in Southeast Asia, collaborating on a musical with Seattle rock band Poland, and co-authoring a graphic-novel adaptation of his dark fable "The Repository of Broken Dreams" (available in What to Read in the Rain 2013). Harold is also participating as a bookwriter in The 5th Avenue Theatre's Writers Group, a two-year program that culminates in staged readings of one-act musicals in 2014 and of two-act musicals in 2015.</biography>
+			<book_title><title>Adventures of the Karaoke King</title></book_title>
+			<book_cover>
+					<image source="cover/taw1" />
+				</book_cover>
+				<book_description>In Harold Taw's entertaining, sometimes bawdy, and often moving novel, Adventures of the Karaoke King, readers are quickly pulled into the vortex of the extremes of human emotions: passion, fear, hope, despair, and the longing for redemption and clarity. Guy Watanabe is a thirty-something man who is marginally in touch with his Asian heritage and completely out of touch with his own needs and desires. Recovering from a divorce, Watanabe is unsure of himself and the course his future might take. When he wins a local karaoke contest, he discovers not only a newfound confidence, but the courage to take risks. With the victor's medallion in hand, he seizes the moment…and his life changes dramatically, albeit not as he might have hoped. From a weekend romp with Megumi, a former hooker, comes a physical beating and the loss of his beloved medallion. Stung by this humiliation, and yet able to muster a courage long dormant, his quest begins. From the western states and on to Asia, with a return trip in a shipping container, we follow his wild ride. Will a Korean barmaid be his downfall…or his redemption? Will Billy, a closeted gay man, or Milt, a heavily-armed dwarf, help Guy on his journey? And what about the patricidal Chinese businessman who will stop at nothing to create a global karaoke empire? So many people seeking the light, desperate to attain their dreams. And at the heart of their internal wars is Guy Watanabe's quest for truth, hope, and self-discovery.</book_description>
+					<year><year_published>2011</year_published></year>
+					<genre>humor</genre>
+</author>
+<author>
+	<name><author_first_name>Michael</author_first_name>
+	<author_last_name>Underwood</author_last_name></name>
+		<picture>
+			<image source="images/underwood" />
+		</picture>
+		<biography>By day, he's the North American Sales and Marketing Manager for Angry Robot Books. Mike grew up devouring stories in all forms, from comics to video games, tabletop RPGs, movies, and books. Always books.
+
+		Mike lives in Baltimore with his fiance, an ever-growing library, and a super-team of dinosaur figurines and stuffed animals. In his rapidly-vanishing free time, he studies historical martial arts and makes pizzas from scratch. He is a co-host on the Hugo-nominated Skiffy and Fanty Show.</biography>
+			<book_title><title>Shield and Crocus</title></book_title>
+			<book_cover>
+					<image source="cover/underwood1" />
+				</book_cover>
+				<book_description>In a city built among the bones of a fallen giant, a small group of heroes looks to reclaim their home from the five criminal tyrants who control it.
+
+				The city of Audec-Hal sits among the bones of a Titan. For decades it has suffered under the dominance of five tyrants, all with their own agendas. Their infighting is nothing, though, compared to the mysterious “Spark-storms” that alternate between razing the land and bestowing the citizens with wild, unpredictable abilities. It was one of these storms that gave First Sentinel, leader of the revolutionaries known as the Shields of Audec-Hal, power to control the emotional connections between people—a power that cost him the love of his life.
+
+				Now, with nothing left to lose, First Sentinel and the Shields are the only resistance against the city’s overlords as they strive to free themselves from the clutches of evil. The only thing they have going for them is that the crime lords are fighting each other as well—that is, until the tyrants agree to a summit that will permanently divide the city and cement their rule of Audec-Hal.
+
+				It’s one thing to take a stand against oppression, but with the odds stacked against the Shields, it’s another thing to actually triumph.
+
+				In this stunning, original tale of magic and revolution, Michael R. Underwood creates a cityscape that rivals Ambergris and New Crobuzon in its depth and populates it with heroes and villains that will stay with you forever.</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>science fiction</genre><genre>fantasy</genre>
+</author>
+<author>
+	<name><author_first_name>Sydell</author_first_name>
+	<author_last_name>Voeller</author_last_name></name>
+		<picture>
+			<image source="images/voeller" />
+		</picture>
+		<biography>Sydell Voeller grew up in Washington State, but has lived in Oregon for over thirty years. Throughout her twenty-plus-year writing career, her published novels for teens and adults have reflected her love for the Pacific Northwest's ocean beaches, inlets and waterways, evergreen forests, and mountains. Sydell resides in Oregon with her husband. They married in 1972 and have two grown sons and five grandchildren.
+
+		Pet lovers, the Voellers have provided a home for several cats, a dog, gerbils, hamsters, and a turtle--especially when their sons were growing up. (A small rodent cemetery still occupies one corner of their backyard.) She and her husband enjoy camping, reading, playing Scrabble, day trips to the Oregon coast, and spending time with their two pampered feline.
+
+		When Sydell isn't writing, she enjoys camping, walking, amateur astronomy, reading, and surfing the web. In 1987 after the publication of her first novel, she was named by the Washington County Mushaw Center, Woman of the Year in Communications.
+
+		Formerly a registered nurse, Sydell now teaches long distance learning writing courses, sponsored by the Long Ridge Writer's Institute. </biography>
+			<book_title><title>Star Light Star Bright</title></book_title>
+			<book_cover>
+					<image source="cover/voeller1" />
+				</book_cover>
+				<book_description>When Chyenna Dupres and her young daughter move from Portland, Oregon, to the small town of Prairie Valley, Chyenna leases a historic inn there. She plans to turn the inn into an upscale eatery, despite strong resistance from some of the locals. Her most vocal objector is cattle rancher Blair Westerman, who has relocated from L.A. to protect his own daughter from the "evils" of city life. Moreoever, he is determined to guard Prairie Valley from outside influences, especially tourists who might decide to stay.
+				From the moment they first meet, Chyenna and Blair can't seem to leave each other alone. They get under each other's skin, and race through each other's thoughts. Their opposing goals for Prairie Valley and their push-pull feelings for each other keep tensions high--especially when their match-making daughters become close friends and decide to run away together.
+
+				Chyenna and Blair may have acted like children, but now it's time to come together for the good of their own children, and realize just how far apart they've let their differences push them.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre>
+</author>
+<author>
+			<book_title><title>Unlikely Dad</title></book_title>
+			<book_cover>
+					<image source="cover/voeller2" />
+				</book_cover>
+				<book_description>Rachel Dillion treasures living in the small town where she raises her young son Michael and owns a bed and breakfast. She feels content knowing that the B and B is a wonderful way to give back to her community and that small-town life affords Michael some much needed security. Because of Rachel's divorce from his father, Michael has suffered emotionally and is failing in school.
+				Chad Merrick, Rachel's old boyfriend, returns home to help his mother sell her property. Once again, Rachel is powerfully attracted to Chad, yet she is also cautious. Chad is a renowned international wildlife photographer who loves wide open spaces. She can't imagine that he would ever settle for the humdrum small-town life. She's convinced, as Chad is, that his visit is temporary.
+
+				Chad begins tutoring Michael and soon fills in as his dad for a community Boy Scout project. While Rachel is grateful for Chad's help, her caution meters skyrocket. Before she knows it, Michael has become too attached to Chad. Can Rachel protect her son from further hurt and abandonment? And most of all, can she allow herself to fall in love with Chad--this time forever?</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>romance</genre>
+
+</author>
+<author>
+	<name><author_first_name>Rysa</author_first_name>
+	<author_last_name>Walker</author_last_name></name>
+		<picture>
+			<image source="images/walker" />
+		</picture>
+		<biography>RYSA WALKER grew up on a cattle ranch in the South, where she read every chance she got. On the rare occasion that she gained control of the television, she watched Star Trek and imagined living in the future, on distant planets, or at least in a town big enough to have a stop light.
+
+		Timebound, the first book in the CHRONOS Files series, was the Young Adult and Grand Prize winner in the 2013 Amazon Breakthrough Novel Awards. A CHRONOS Files novella, Time's Echo, is now available exclusively on Kindle and Audible. Time's Edge, the second book in the series, is scheduled for release in October of 2014.</biography>
+			<book_title><title>Timebound (The Chronos Files Book 1)</title></book_title>
+			<book_cover>
+					<image source="cover/walker1" />
+				</book_cover>
+				<book_description>When Kate Pierce-Keller’s grandmother gives her a strange blue medallion and speaks of time travel, sixteen-year-old Kate assumes the old woman is delusional. But it all becomes horrifyingly real when a murder in the past destroys the foundation of Kate’s present-day life. Suddenly, that medallion is the only thing protecting Kate from blinking out of existence.
+
+				Kate learns that the 1893 killing is part of something much more sinister, and her genetic ability to time travel makes Kate the only one who can fix the future. Risking everything, she travels back in time to the Chicago World’s Fair to try to prevent the murder and the chain of events that follows.
+
+				Changing the timeline comes with a personal cost—if Kate succeeds, the boy she loves will have no memory of her existence. And regardless of her motives, does Kate have the right to manipulate the fate of the entire world?</book_description>
+					<year><year_published>Year Published: 2014</year_published></year>
+</author>
+<author>
+			<book_title><title>Time's Edge (The Chronos Files Book 2)</title></book_title>
+			<book_cover>
+					<image source="cover/walker2" />
+				</book_cover>
+				<book_description>To stop her sadistic grandfather, Saul, and his band of time travelers from rewriting history, Kate must race to retrieve the CHRONOS keys before they fall into the Cyrists’ hands. If she jumps back in time and pulls the wrong key—one that might tip off the Cyrists to her strategy—her whole plan could come crashing down, jeopardizing the future of millions of innocent people. Kate’s only ally is Kiernan, who also carries the time-traveling gene. But their growing bond threatens everything Kate is trying to rebuild with Trey, her boyfriend who can’t remember the relationship she can’t forget.
+
+				As evidence of Saul’s twisted mind builds, Kate’s missions become more complex, blurring the line between good and evil. Which of the people Saul plans to sacrifice in the past can she and Kiernan save without risking their ultimate goal—or their own lives?</book_description>
+					<year><year_published>2014</year_published></year>
+					<genre>science fiction</genre><genre>young adult</genre><genre>fantasy</genre><genre>historical fiction</genre>
+</author>
+<author>
+	<name><author_first_name>Zhu</author_first_name>
+	<author_last_name>Xiao-Mei</author_last_name></name>
+		<picture>
+			<image source="images/xiao-mei" />
+		</picture>
+		<biography>Zhu Xiao-Mei was born in Shanghai, China. She began playing the piano when she was a young child, and by the age of eight was performing for Peking radio and television stations. She entered the Beijing Conservatory when she was ten years old, but her education was interrupted by the Cultural Revolution. After five years in a labor camp in Mongolia, she returned to China, before moving on to the United States and finally Paris, France, where she has lived and worked since 1984. She teaches at the Conservatoire National Supérieur de Musique and has performed for audiences on six continents. She is one of the world's most celebrated interpreters of Bach's "Goldberg Variations".</biography>
+			<book_title><title>The Secret Piano: From Mao's Labor Camps to Bach's Goldberg Variations</title></book_title>
+			<book_cover>
+					<image source="cover/xiao1" />
+				</book_cover>
+				<book_description>Zhu Xiao-Mei was born to middle-class parents in post-war China, and her musical proficiency became clear at an early age. Taught to play the piano by her mother, she developed quickly into a prodigy, immersing herself in the work of classical masters like Bach and Brahms. She was just ten years old when she began a rigorous course of study at the Beijing Conservatory, laying the groundwork for what was sure to be an extraordinary career. But in 1966, when Xiao-Mei was seventeen, the Cultural Revolution began, and life as she knew it changed forever. One by one, her family members were scattered, sentenced to prison or labor camps. By 1969, the art schools had closed, and Xiao-Mei was on her way to a work camp in Mongolia, where she would spend the next five years. Life in the camp was nearly unbearable, thanks to horrific living conditions and intensive brainwashing campaigns. Yet through it all Xiao-Mei clung to her passion for music and her sense of humor. And when the Revolution ended, it was the piano that helped her to heal. Heartbreaking and heartwarming, The Secret Piano is the incredible true story of one woman’s survival in the face of unbelievable odds—and in pursuit of a powerful dream.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>historical</genre><genre>music</genre><genre>memoir</genre>
+</author>
+<author>
+	<name><author_first_name>Justin Luke</author_first_name>
+	<author_last_name>Zirilli</author_last_name></name>
+		<picture>
+			<image source="images/zirilli" />
+		</picture>
+		<biography>Justin Luke Zirilli is the co-director and head promoter of BoiParty, New York City's largest and longest-running gay nightlife events company. He and his business partner, Alan Picus, throw the three largest weekly dance parties around New York City, and even larger events across the United States. 
+
+		In addition to event planning, Justin feeds his addiction to social media as the creator of Gorgeous, Gay and Twenty-Something, a private international Facebook group, as the New York correspondent of the national gay talk show, The Swish Edition, and by moonlighting as a social media and new business consultant. 
+
+		When he isn't glued to his computer screen, or traversing NYC's gay party scene, he spends his time in Hell's Kitchen, playing PlayStation and watching Doctor Who with his boyfriend, Joe.
+
+		To date Justin has published the best-selling gay novels Gulliver Takes Manhattan and Gulliver Takes Five.</biography>
+			<book_title><title>Gulliver Takes Manhatten</title></book_title>
+			<book_cover>
+					<image source="cover/zirilli1" />
+				</book_cover>
+				<book_description>Gulliver Takes Manhattan (first published as Gulliver Travels) is the tale of twenty-something Gulliver Leverenz, who abandons sunny L.A. for a fresh start in New York. He’s leaving behind his family, his friends—and one bastard ex-boyfriend who can’t take a hint. With no money, job, or direction, Gully gratefully accepts an invitation to crash with his former fraternity brother Todd. As luck would have it, Todd lives in Hell’s Kitchen, New York’s hottest “gayborhood,” and is a rising star in the gay nightlife scene, complete with a crew of incredibly hot friends. Not long after, Gully snags a job with a talent agent and even finds himself a new boyfriend. There’s just one catch: Gulliver knows this budding relationship could get him in a lot of trouble. And inevitably, it does just that. Gulliver’s streak of good fortune soon takes a turn for the miserable as his choices unleash an onslaught of catastrophes that leaves him in a tragic and seemingly hopeless situation beneath the skyscrapers. But Gully’s tougher than he realizes and is determined to prove, for once and for all, that he has what it takes to make it in New York. By turns exciting, sad, and hysterically funny, Gulliver Takes Manhattan is a refreshingly candid tale of one man’s quest to stake a place for himself in the greatest city in the world.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>lbgt</genre><genre>romance</genre><genre>humor</genre>
+</author>
+<author>
+			<book_title><title>Gulliver Takes Five</title></book_title>
+			<book_cover>
+					<image source="cover/zirilli2" />
+				</book_cover>
+				<book_description>In his wild and addictive follow-up to Gulliver Takes Manhattan, novelist Justin Luke Zirilli revisits a single epic night in the life of Gulliver Leverenz; this time through the eyes of six of Gully’s closest companions. There’s Marty, Gully’s ex-boyfriend, who gets a shot at a breakthrough role that could propel him straight to Broadway; hotheaded Brayden, who copes with a breakup by carving a path of blistering revenge across the city; bickering exes Servando and Rowan, for whom a subway breakdown ignites a powder keg of drama and discovery; Gully’s former best friend Todd, whose job as a gay nightlife promoter is turning out to be anything but glamorous; and go-go boy Chase, finally facing some hard truths about his life—and trying to cope with his harsh reality. Enrapturing, adventurous, and chaotic, Gulliver Takes Five gives readers an exclusive all-access pass to Gay New York for one rough, sexy—and unforgettable—night on the town.</book_description>
+					<year><year_published>2012</year_published></year>
+					<genre>lbgt</genre><genre>romance</genre><genre>humor</genre>
+</author>
+
+</publishing_house>
