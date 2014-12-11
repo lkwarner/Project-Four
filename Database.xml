@@ -31,7 +31,8 @@
 					<genre>mystery</genre><genre>suspense</genre><genre>crime</genre>
 </author>
 <author>
-
+	<name><author_first_name>Rachel</author_first_name>
+	<author_last_name>Abbott</author_last_name></name>
 		<book_title><title>Only The Innocent</title></book_title>
 		<book_cover>
 					<image source="cover/abbott2" />
@@ -58,6 +59,9 @@
 		When asked what he hopes to achieve as a writer, he said, "The dream for me is to be walking through an airport and notice someone with her head buried in the book. Many readers have said they found it impossible to put down. For me, that's the ultimate compliment." Bard currently resides with his wonderful wife in Redondo Beach, California, where he remains in excellent health. 
 
 		Books 1 and 2 will be republished by Thomas and Mercer in April of 2013. Book Three of the series is scheduled for release in July of 2013.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B005ED9X4W</url>
+  		</homepages>
 			<book_title><title>Brainrush (Brainrush Series Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/bard1" />
@@ -69,6 +73,8 @@
 					<genre>science fiction</genre><genre>thriller</genre><genre>suspense</genre>
 </author>					
 <author>
+	<name><author_first_name>Richard</author_first_name>
+	<author_last_name>Bard</author_last_name></name>
 			<book_title><title>The Enemy of My Enemy (Brainrush Series Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/bard2" />
@@ -80,6 +86,8 @@
 					<genre>science fiction</genre><genre>thriller</genre><genre>suspense</genre>
 </author>
 <author>
+	<name><author_first_name>Richard</author_first_name>
+	<author_last_name>Bard</author_last_name></name>
 			<book_title><title>Beyond Judgement (Brainrush Series Book 3)</title></book_title>
 			<book_cover>
 					<image source="cover/bard3" />
@@ -101,6 +109,9 @@
 		<biography>Roberto Calas is an author and lover of history. His serial trilogy (The Scourge) is about a 14th century knight fighting his way through a demon-infested England to reunite with the woman he loves. And every bit of it is true except for the made up parts. 
 
 		In addition to The Scourge series, Roberto has written The Beast of Maug Maurai (fantasy), and Kingdom of Glass (historical fiction in the Foreworld universe). He lives in Sandy Hook, Connecticut with his two children, and visits the United Kingdom on a monthly basis to be with his fiancée, Annabelle. Sometimes he fights demons to reach her.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B008V27J62</url>
+  		</homepages>
 			<book_title><title>The Scourge (The Scourge Series Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/calas1" />
@@ -115,6 +126,8 @@
 					<genre>historical fiction</genre><genre>horror</genre><genre>fantasy</genre>
 </author>
 <author>
+	<name><author_first_name>Roberto</author_first_name>
+	<author_last_name>Calas</author_last_name></name>
 			<book_title><title>Nostrum (The Scourge Series Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/calas2" />
@@ -141,6 +154,9 @@
 		Her plays have been produced in New York, Los Angeles, and DC Metro area. She has over 300+ film, television, and theatre credits to her name, specializing in sketch, improv, and Shakespeare. She trained in on-camera puppetry with Mr. Snuffleupagus and played the head of a 20-foot dinosaur on an NBC pilot.
 
 		She lost on Hollywood Squares.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B004HXIXGY</url>
+  		</homepages>
 			<book_title><title>The Woodcutter</title></book_title>
 			<book_cover>
 					<image source="cover/danley1" />
@@ -154,6 +170,8 @@
 					<genre>fantasy</genre><genre>young adult</genre><genre>fairy tale</genre>
 </author>
 <author>
+	<name><author_first_name>Kate</author_first_name>
+	<author_last_name>Danley</author_last_name></name>
 			<book_title><title>Reborn (A Dead Man Adventure)</title></book_title>
 			<book_cover>
 					<image source="cover/danley2" />
@@ -177,6 +195,9 @@
 			<image source="images/eden" />
 		</picture>
 		<biography>Cynthia is a southern girl who loves horror movies, chocolate, and happy endings. She has always wanted to write (don't most authors say that?), and particularly enjoys creating stories about monsters-vampires, werewolves, and even the real-life monsters who populate her romantic suspense stories.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001IU0Q46</url>
+  		</homepages>
 			<book_title><title>Die For Me: A Novel of the Valentine Killer</title></book_title>
 			<book_cover>
 					<image source="cover/eden1" />
@@ -190,6 +211,8 @@
 					<genre>romance</genre><genre>suspense</genre><genre>thriller</genre>
 </author>
 <author>
+	<name><author_first_name>Cynthia</author_first_name>
+	<author_last_name>Eden</author_last_name></name>
 			<book_title><title>Fear For Me: A Novel of the Bayou Butcher</title></book_title>
 			<book_cover>
 					<image source="cover/eden2" />
@@ -201,6 +224,8 @@
 					<genre>romance</genre><genre>suspense</genre><genre>thriller</genre>
 </author>
 <author>
+	<name><author_first_name>Cynthia</author_first_name>
+	<author_last_name>Eden</author_last_name></name>
 			<book_title><title>Scream For Me: A Novel for the Night Hunter</title></book_title>
 			<book_cover>
 					<image source="cover/eden3" />
@@ -220,6 +245,9 @@
 		<biography>Christina Farley was born and raised in upstate New York. As a child, she loved to explore, which later inspired her to jump on a plane and travel the world. She taught at international schools in Asia for ten years, eight of which were in the mysterious and beautiful city of Seoul, Korea that became the setting of Gilded and Silvern. 
 
 		Currently she lives in Clermont, FL with her husband and two sons--that is until the travel itch whisks her off to a new unknown.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B00FO5ZHFO</url>
+  		</homepages>
 			<book_title><title>Gilded (The Gilded Series Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/farley1" />
@@ -232,6 +260,8 @@
 					<genre>fantasy</genre><genre>young adult</genre><genre>romance</genre><genre>paranormal</genre>
 </author>
 <author>
+	<name><author_first_name>Christina</author_first_name>
+	<author_last_name>Farley</author_last_name></name>
 			<book_title><title>Silvern(The Gilded Series Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/farley2" />
@@ -261,6 +291,9 @@
 		His 2003 manifesto on advertising, And Now a Few Words From Me, is published in eight languages (although, admittedly, one is Bulgarian). His 2009 book, The Chaos Scenario, accurately predicted the agonizing death of the very industries that constitute his livelihood. His prescription for salvation, Can't Buy Me Like, will be published by Penguin Portfolio in March 2013. His first novel, Bedfellows was published in the fall of 2012. Garfield co-wrote "Tag, You're It," a snappy country song performed by Willie Nelson, and wrote an episode of the short-lived NBC sitcom "Sweet Surrender." It sucked. He is also the co-host of a Slate.com podcast on language titled Lexicon Valley. That's pretty good, actually.
 
 		Garfield has won many journalism prizes including some doozies and two National Press Club poker championships. He lives in suburban Washington, DC, where, in separate incidents 11 months apart, he was twice rear-ended by federal employees.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001KHDU2C</url>
+  		</homepages>
 			<book_title><title>Bedfellows</title></book_title>
 			<book_cover>
 					<image source="cover/garfield1" />
@@ -283,6 +316,9 @@
 		</picture>
 		<biography>Katy Hanna lives in Pennsylvania with her husband and two sons. When not writing she can be found in her sewing room making medieval and biblical costumes. A few of her favorite authors are Lois McMaster Bujold, Orson Scott Card, John Wyndham, and Connie Willis. 
 		Breakdown is her first full-length novel. </biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B004W46NHO</url>
+  		</homepages>
 			<book_title><title>Breakdown</title></book_title>
 			<book_cover>
 					<image source="cover/hanna1" />
@@ -296,6 +332,8 @@
 					<genre>post apocalyptic</genre><genre>science fiction</genre><genre>horror</genre> 
 </author>
 <author>
+	<name><author_first_name>Katherine Amt</author_first_name>
+	<author_last_name>Hanna</author_last_name></name>
 			<book_title><title>The Work of the Devil</title></book_title>
 			<book_cover>
 					<image source="cover/hanna2" />
@@ -316,6 +354,9 @@
 		</picture>
 		<biography>Mona Ingram is the author of 20 romance novels, including two novellas. Many of her stories take place in British Columbia, where she has lived since the age of twelve. In recent years she has lived in the Okanagan Valley and on Vancouver Island. In addition to reading and writing, traveling and bird watching are among Mona's favourite pastimes.
 		Mona wrote formerly for Avalon Books, a respected New York publisher which was bought by Amazon's Montlake Press in early 2012.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001JSDJVO</url>
+  		</homepages>
 			<book_title><title>The Shell Game</title></book_title>
 			<book_cover>
 					<image source="cover/ingram1" />
@@ -328,6 +369,8 @@
 					<genre>romance</genre><genre>mystery</genre>
 </author>
 <author>
+	<name><author_first_name>Mona</author_first_name>
+	<author_last_name>Ingram</author_last_name></name>
 			<book_title><title>The Reluctant Rockstar</title></book_title>
 			<book_cover>
 					<image source="cover/ingram2" />
@@ -342,6 +385,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Mona</author_first_name>
+	<author_last_name>Ingram</author_last_name></name>
 			<book_title><title>But Not for Me</title></book_title>
 			<book_cover>
 					<image source="cover/ingram3" />
@@ -351,6 +396,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Mona</author_first_name>
+	<author_last_name>Ingram</author_last_name></name>
 			<book_title><title>Brush With Destiny</title></book_title>
 			<book_cover>
 					<image source="cover/ingram4" />
@@ -360,6 +407,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Mona</author_first_name>
+	<author_last_name>Ingram</author_last_name></name>
 			<book_title><title>The Gift</title></book_title>
 			<book_cover>
 					<image source="cover/ingram5" />
@@ -378,6 +427,9 @@
 			<image source="images/jones" />
 		</picture>
 		<biography>A native of Cardiff, Wales, Paul Antony Jones now resides near Las Vegas, Nevada, with his wife. He has worked as a newspaper reporter and commercial copywriter, but his passion is penning fiction. A self-described science geek, he's a voracious reader of scientific periodicals, as well as a fan of things mysterious, unknown, and on the fringe. That fascination inspired Extinction Point, his first novel in a proposed series following heroine Emily Baxter's journey into the bizarre new alien world our earth has become. The first sequel, Extinction Point: Exodus is now available.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B0050Q39OI</url>
+  		</homepages>
 			<book_title><title>Extinction Point (Extinction Point Series Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/jones1" />
@@ -391,6 +443,8 @@
 					<genre>science fiction</genre><genre>post apocalyptic</genre><genre>horror</genre>
 </author>
 <author>
+	<name><author_first_name>Paul Antony</author_first_name>
+	<author_last_name>Jones</author_last_name></name>
 			<book_title><title>Exodus (Extinction Point Series Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/jones2" />
@@ -404,6 +458,8 @@
 					<genre>science fiction</genre><genre>post apocalyptic</genre><genre>horror</genre>
 </author>
 <author>
+	<name><author_first_name>Paul Antony</author_first_name>
+	<author_last_name>Jones</author_last_name></name>
 			<book_title><title>Revelations (Extinction Point Series Book 3)</title></book_title>
 			<book_cover>
 					<image source="cover/jones3" />
@@ -432,6 +488,9 @@
 		When he's not writing or climbing in the rafters, he's probably outside, staring at the clouds. And seeing as he now resides in Seattle, there are clouds aplenty.
 
 		He is represented by Laurie McLean of Foreword Literary.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B006N8JB12</url>
+  		</homepages>
 			<book_title><title>The Immortal Circus: Act One (Cirque des Immortels Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/kahler1" />
@@ -446,6 +505,8 @@
 					<genre>fantasy</genre><genre>paranormal</genre><genre>mystery</genre>
 </author>
 <author>
+	<name><author_first_name>A. R.</author_first_name>
+	<author_last_name>Kahler</author_last_name></name>
 			<book_title><title>The Immortal Circus: Act Two (Cirque des Immortels Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/kahler2" />
@@ -458,6 +519,8 @@
 					<genre>fantasy</genre><genre>paranormal</genre><genre>mystery</genre>
 </author>
 <author>
+	<name><author_first_name>A. R.</author_first_name>
+	<author_last_name>Kahler</author_last_name></name>
 			<book_title><title>The Immortal Circus: Final Act (Cirque des Immortels Book 3)</title></book_title>
 			<book_cover>
 					<image source="cover/kahler3" />
@@ -479,6 +542,9 @@
 		<biography>William Lashner is the New York Times Bestselling creator of Victor Carl, who has been called by Booklist one of the mystery novel's "most compelling, most morally ambiguous characters." The Victor Carl novels, which have been translated into more than a dozen foreign languages and have been sold all across the globe, include BAGMEN, KILLER'S KISS, FALLS THE SHADOW, FATAL FLAW, and HOSTILE WITNESS. He is also the author of BLOOD AND BONE, THE ACCOUNTING, and, most recently, THE BARKEEP, which was a Digital Book World Number One Bestselling Ebook.
 
 		Lashner was a criminal prosecutor with the Department of Justice in Washington D.C. before quitting the law to write fulltime. A graduate of the New York University School of Law, as well as the Iowa Writers' Workshop, he lives with his wife and three children outside Philadelphia.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B000APB4SM</url>
+  		</homepages>
 			<book_title><title>The Accounting</title></book_title>
 			<book_cover>
 					<image source="cover/lashner1" />
@@ -496,6 +562,9 @@
 					<genre>mystery</genre><genre>thriller</genre><genre>crime</genre>
 </author>
 <author>
+		<name><author_first_name>William</author_first_name>
+		<author_last_name>Lashner</author_last_name></name>
+
 			<book_title><title>The Barkeep</title></book_title>
 			<book_cover>
 					<image source="cover/lashner2" />
@@ -509,6 +578,9 @@
 					<genre>mystery</genre><genre>thriller</genre><genre>suspense</genre>
 </author>
 <author>
+		<name><author_first_name>William</author_first_name>
+		<author_last_name>Lashner</author_last_name></name>
+
 			<book_title><title>Bagmen (A Victor Carl Novel)</title></book_title>
 			<book_cover>
 					<image source="cover/lashner3" />
@@ -528,6 +600,9 @@
 		After a six year sojourn in London, England, a dearth of good donuts has driven her back to her hometown. She now resides in the leafy green hills outside Portland, Oregon where she indulges in her fondness for strong coffee, Ancient Aliens reruns, lemon curd, and dragons.
 
 		Because everything's better with dragons.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B0058SQK62</url>
+  		</homepages>
 			<book_title><title>Kissed by Darkeness (Sunwalker Saga Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/macleod1" />
@@ -539,6 +614,8 @@
 					<genre>fantasy</genre><genre>romance</genre><genre>paranormal</genre>
 </author>
 <author>
+	<name><author_first_name>Shea</author_first_name>
+	<author_last_name>Macleod</author_last_name></name>
 			<book_title><title>Kissed by Fire (Sunwalker Saga Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/macleod2" />
@@ -550,6 +627,8 @@
 					<genre>fantasy</genre><genre>romance</genre><genre>paranormal</genre>
 </author>
 <author>
+	<name><author_first_name>Shea</author_first_name>
+	<author_last_name>Macleod</author_last_name></name>
 			<book_title><title>Kissed by Smoke (Sunwalker Saga Book 3)</title></book_title>
 			<book_cover>
 					<image source="cover/macleod3" />
@@ -567,6 +646,9 @@
 			<image source="images/nolan" />
 		</picture>
 		<biography>Multi-award winning author Nick Nolan was born into an Irish Catholic family in the suburbs of Los Angeles, where he grew up mowing lawns, washing cars, and wishing he weren't gay. Finally at peace with his sexual orientation, Nolan met his partner Jaime in 1987, fell in love, and began building a life with him. After graduating with a degree in Psychology, Nick began working with homeless youth and, inspired by the works of author Paul Monette, started penning his first novel. Nolan's modern fairy tales now comprise the "Tales from Ballena Beach" series. Today Nick, Jaime and their two beloved retrievers divide their time between their home in the San Fernando Valley and a mountaintop cabin.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B002BLNDG4</url>
+  		</homepages>
 			<book_title><title>Black as Snow</title></book_title>
 			<book_cover>
 					<image source="cover/nolan1" />
@@ -582,6 +664,8 @@
 					<genre>fairy tale</genre><genre>fantasy</genre><genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Nick</author_first_name>
+	<author_last_name>Nolan</author_last_name></name>
 			<book_title><title>Strings Attached (Tales from Ballena Beach Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/nolan2" />
@@ -591,6 +675,8 @@
 					<genre>romance</genre><genre>young adult</genre><genre>lgbt</genre>
 </author>
 <author>
+	<name><author_first_name>Nick</author_first_name>
+	<author_last_name>Nolan</author_last_name></name>
 			<book_title><title>Double Bound (Tales from Ballena Beach Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/nolan3" />
@@ -601,6 +687,8 @@
 					<genre>romance</genre><genre>young adult</genre><genre>lgbt</genre>
 </author>
 <author>
+	<name><author_first_name>Nick</author_first_name>
+	<author_last_name>Nolan</author_last_name></name>
 			<book_title><title>Wide Asleep (Tales from Ballena Beach Book 3)</title></book_title>
 			<book_cover>
 					<image source="cover/nolan4" />
@@ -622,6 +710,9 @@
 		<biography>Beth Orsoff is the author of humorous fiction including the novels "Romantically Challenged," "Honeymoon for One," "Girl in the Wild" (formerly "How I Learned to Love the Walrus"), "Disengaged," "Vlad All Over," and "Vlad to the Bone." 
 
 		When Beth isn't traveling the world looking for story ideas (yes, she really did go to Transylvania!) she can be found at her home in Los Angeles alternately glued to her computer screen and her television screen. For more information about Beth and her celebrity sightings (George Clooney anyone?) check out her website.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001IXTQGW</url>
+  		</homepages>
 			<book_title><title>Disengaged</title></book_title>
 			<book_cover>
 					<image source="cover/orsoff1" />
@@ -637,6 +728,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+		<name><author_first_name>Beth</author_first_name>
+	<author_last_name>Orsoff</author_last_name></name>
 			<book_title><title>Girl in the Wild</title></book_title>
 			<book_cover>
 					<image source="cover/orsoff2" />
@@ -650,6 +743,8 @@
 					<genre>romance</genre><genre>humor</genre>
 </author>
 <author>
+		<name><author_first_name>Beth</author_first_name>
+	<author_last_name>Orsoff</author_last_name></name>
 			<book_title><title>Honeymoon for One</title></book_title>
 			<book_cover>
 					<image source="cover/orsoff3" />
@@ -665,6 +760,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+		<name><author_first_name>Beth</author_first_name>
+	<author_last_name>Orsoff</author_last_name></name>
 			<book_title><title>Vlad All Over</title></book_title>
 			<book_cover>
 					<image source="cover/orsoff4" />
@@ -683,6 +780,9 @@
 			<image source="images/park" />
 		</picture>
 		<biography>Jessica is the author of LEFT DROWNING, the New York Times bestselling FLAT-OUT LOVE (and the companion piece FLAT-OUT MATT), and RELATIVELY FAMOUS. She lives in New Hampshire where she spends an obscene amount time thinking about rocker boys and their guitars, complex caffeinated beverages, and tropical vacations. On the rare occasions that she is able to focus on other things, she writes.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001IYV3J4</url>
+  		</homepages>
 			<book_title><title>Flat-Out Love</title></book_title>
 			<book_cover>
 					<image source="cover/park1" />
@@ -702,6 +802,8 @@
 					<genre>romance</genre><genre>young adult</genre><genre>humor</genre>
 </author>
 <author>
+	<name><author_first_name>Jessica</author_first_name>
+	<author_last_name>Park</author_last_name></name>
 			<book_title><title>Left Drowning</title></book_title>
 			<book_cover>
 					<image source="cover/park2" />
@@ -718,6 +820,9 @@
 			<image source="images/quinn" />
 		</picture>
 		<biography>A native of Alaska, Ryan Quinn was an NCAA champion and an all-American skier while at the University of Utah. He worked for five years in New York's book-publishing industry before moving to Los Angeles, where he writes and trains for marathons. Quinn's first novel, The Fall, was a finalist in the 2013 International Book Awards. </biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B004GLGYH2</url>
+  		</homepages>
 			<book_title><title>The Fall</title></book_title>
 			<book_cover>
 					<image source="cover/quinn1" />
@@ -727,6 +832,8 @@
 					<genre>lgbt</genre><genre>young adult</genre><genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Ryan</author_first_name>
+	<author_last_name>Quinn</author_last_name></name>
 			<book_title><title>End of Secrets</title></book_title>
 			<book_cover>
 					<image source="cover/quinn2" />
@@ -750,6 +857,9 @@
 		Married to a career Air Force Officer, she's lived in Texas, California, Louisiana, Virginia, Ohio, North Carolina, and Hawaii. She is the mother of four daughters and the grandmother of four granddaughters and one grandson.
 
 		In 2011, she and her husband celebrated their fiftieth wedding anniversary.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001JSDSL0</url>
+  		</homepages>
 			<book_title><title>Bed and Breakfast Blues</title></book_title>
 			<book_cover>
 					<image source="cover/ralph1" />
@@ -760,6 +870,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Susan</author_first_name>
+	<author_last_name>Ralph</author_last_name></name>
 			<book_title><title>Brompton Manor</title></book_title>
 			<book_cover>
 					<image source="cover/ralph2" />
@@ -774,6 +886,8 @@
 					<genre>romance</genre><genre>historical fiction</genre>
 </author>
 <author>
+	<name><author_first_name>Susan</author_first_name>
+	<author_last_name>Ralph</author_last_name></name>
 			<book_title><title>A Sprig of Lavender</title></book_title>
 			<book_cover>
 					<image source="cover/ralph3" />
@@ -787,6 +901,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Susan</author_first_name>
+	<author_last_name>Ralph</author_last_name></name>
 			<book_title><title>Starting from Scratch</title></book_title>
 			<book_cover>
 					<image source="cover/ralph4" />
@@ -804,6 +920,9 @@
 		<biography>Tom Schreck is the author of five novels, including On the Ropes, TKO, Out Cold, The Vegas Knockout and Getting Dunn. He graduated from the University of Notre Dame and has a master's degree in psychology--and a black belt. He previously worked as the director of an inner-city drug clinic and today juggles several jobs: communications director for a program for people with disabilities, adjunct psychology professor, freelance writer, and world championship boxing official. He lives in Albany, New York, with his wife.
 
 		Publisher's Weekly called the Duffy Series, "Fresh, intense and funny...Duffy delivers a knockout punch." Kirkus said they were "Refreshingly iconoclastic." Crimespree Magazine said, "One of the five best books I read this year."</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001JS8CTI</url>
+  		</homepages>
 			<book_title><title>Getting Dunn</title></book_title>
 			<book_cover>
 					<image source="cover/schreck1" />
@@ -819,6 +938,8 @@
 					<genre>military</genre><genre>thriller</genre><genre>mystery</genre>
 </author>
 <author>
+	<name><author_first_name>Tom</author_first_name>
+	<author_last_name>Schreck</author_last_name></name>
 			<book_title><title>The Vegas Knockout</title></book_title>
 			<book_cover>
 					<image source="cover/schreck2" />
@@ -835,6 +956,9 @@
 			<image source="images/taw" />
 		</picture>
 		<biography>Harold Taw is the author of the novel Adventures of the Karaoke King. His writing has been featured on NPR, in a New York Times bestselling anthology and in The Seattle Times; his screenplay Dog Park has garnered recognition in domestic and international film festivals and competitions. Harold is currently completing a novel about a turbulent adolescence in Southeast Asia, collaborating on a musical with Seattle rock band Poland, and co-authoring a graphic-novel adaptation of his dark fable "The Repository of Broken Dreams" (available in What to Read in the Rain 2013). Harold is also participating as a bookwriter in The 5th Avenue Theatre's Writers Group, a two-year program that culminates in staged readings of one-act musicals in 2014 and of two-act musicals in 2015.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B004HDY7VY</url>
+  		</homepages>
 			<book_title><title>Adventures of the Karaoke King</title></book_title>
 			<book_cover>
 					<image source="cover/taw1" />
@@ -852,6 +976,9 @@
 		<biography>By day, he's the North American Sales and Marketing Manager for Angry Robot Books. Mike grew up devouring stories in all forms, from comics to video games, tabletop RPGs, movies, and books. Always books.
 
 		Mike lives in Baltimore with his fiance, an ever-growing library, and a super-team of dinosaur figurines and stuffed animals. In his rapidly-vanishing free time, he studies historical martial arts and makes pizzas from scratch. He is a co-host on the Hugo-nominated Skiffy and Fanty Show.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B007TKHGAQ</url>
+  		</homepages>
 			<book_title><title>Shield and Crocus</title></book_title>
 			<book_cover>
 					<image source="cover/underwood1" />
@@ -881,6 +1008,9 @@
 		When Sydell isn't writing, she enjoys camping, walking, amateur astronomy, reading, and surfing the web. In 1987 after the publication of her first novel, she was named by the Washington County Mushaw Center, Woman of the Year in Communications.
 
 		Formerly a registered nurse, Sydell now teaches long distance learning writing courses, sponsored by the Long Ridge Writer's Institute. </biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B001JRZ0DU</url>
+  		</homepages>
 			<book_title><title>Star Light Star Bright</title></book_title>
 			<book_cover>
 					<image source="cover/voeller1" />
@@ -893,6 +1023,8 @@
 					<genre>romance</genre>
 </author>
 <author>
+	<name><author_first_name>Sydell</author_first_name>
+	<author_last_name>Voeller</author_last_name></name>
 			<book_title><title>Unlikely Dad</title></book_title>
 			<book_cover>
 					<image source="cover/voeller2" />
@@ -914,6 +1046,9 @@
 		<biography>RYSA WALKER grew up on a cattle ranch in the South, where she read every chance she got. On the rare occasion that she gained control of the television, she watched Star Trek and imagined living in the future, on distant planets, or at least in a town big enough to have a stop light.
 
 		Timebound, the first book in the CHRONOS Files series, was the Young Adult and Grand Prize winner in the 2013 Amazon Breakthrough Novel Awards. A CHRONOS Files novella, Time's Echo, is now available exclusively on Kindle and Audible. Time's Edge, the second book in the series, is scheduled for release in October of 2014.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B00D6GOS62</url>
+  		</homepages>
 			<book_title><title>Timebound (The Chronos Files Book 1)</title></book_title>
 			<book_cover>
 					<image source="cover/walker1" />
@@ -926,6 +1061,8 @@
 					<year><year_published>Year Published: 2014</year_published></year>
 </author>
 <author>
+	<name><author_first_name>Rysa</author_first_name>
+	<author_last_name>Walker</author_last_name></name>
 			<book_title><title>Time's Edge (The Chronos Files Book 2)</title></book_title>
 			<book_cover>
 					<image source="cover/walker2" />
@@ -943,6 +1080,9 @@
 			<image source="images/xiao-mei" />
 		</picture>
 		<biography>Zhu Xiao-Mei was born in Shanghai, China. She began playing the piano when she was a young child, and by the age of eight was performing for Peking radio and television stations. She entered the Beijing Conservatory when she was ten years old, but her education was interrupted by the Cultural Revolution. After five years in a labor camp in Mongolia, she returned to China, before moving on to the United States and finally Paris, France, where she has lived and worked since 1984. She teaches at the Conservatoire National Supérieur de Musique and has performed for audiences on six continents. She is one of the world's most celebrated interpreters of Bach's "Goldberg Variations".</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B007RP9PT8</url>
+  		</homepages>
 			<book_title><title>The Secret Piano: From Mao's Labor Camps to Bach's Goldberg Variations</title></book_title>
 			<book_cover>
 					<image source="cover/xiao1" />
@@ -964,22 +1104,29 @@
 		When he isn't glued to his computer screen, or traversing NYC's gay party scene, he spends his time in Hell's Kitchen, playing PlayStation and watching Doctor Who with his boyfriend, Joe.
 
 		To date Justin has published the best-selling gay novels Gulliver Takes Manhattan and Gulliver Takes Five.</biography>
+		<homepages>
+  			<url>https://www.apub.com/author-detail?asin=B00523NAIY</url>
+  		</homepages>
 			<book_title><title>Gulliver Takes Manhatten</title></book_title>
 			<book_cover>
 					<image source="cover/zirilli1" />
 				</book_cover>
-				<book_description>Gulliver Takes Manhattan (first published as Gulliver Travels) is the tale of twenty-something Gulliver Leverenz, who abandons sunny L.A. for a fresh start in New York. He’s leaving behind his family, his friends—and one bastard ex-boyfriend who can’t take a hint. With no money, job, or direction, Gully gratefully accepts an invitation to crash with his former fraternity brother Todd. As luck would have it, Todd lives in Hell’s Kitchen, New York’s hottest “gayborhood,” and is a rising star in the gay nightlife scene, complete with a crew of incredibly hot friends. Not long after, Gully snags a job with a talent agent and even finds himself a new boyfriend. There’s just one catch: Gulliver knows this budding relationship could get him in a lot of trouble. And inevitably, it does just that. Gulliver’s streak of good fortune soon takes a turn for the miserable as his choices unleash an onslaught of catastrophes that leaves him in a tragic and seemingly hopeless situation beneath the skyscrapers. But Gully’s tougher than he realizes and is determined to prove, for once and for all, that he has what it takes to make it in New York. By turns exciting, sad, and hysterically funny, Gulliver Takes Manhattan is a refreshingly candid tale of one man’s quest to stake a place for himself in the greatest city in the world.</book_description>
+				<book_description>Gulliver Takes Manhattan (first published as Gulliver Travels) is the tale of twenty-something Gulliver Leverenz, who abandons sunny L.A. for a fresh start in New York. He’s leaving behind his family, his friends—and one bastard ex-boyfriend who can’t take a hint. With no money, job, or direction, Gully gratefully accepts an invitation to crash with his former fraternity brother Todd. As luck would have it, Todd lives in Hell’s Kitchen, New York’s hottest “gayborhood,” and is a rising star in the gay nightlife scene, complete with a crew of incredibly hot friends. Not long after, Gully snags a job with a talent agent and even finds himself a new boyfriend. There’s just one catch: Gulliver knows this budding relationship could get him in a lot of trouble. And inevitably, it does just that. Gulliver’s streak of good fortune soon takes a turn for the miserable as his choices unleash an onslaught of catastrophes that leaves him in a tragic and seemingly hopeless situation beneath the skyscrapers. But Gully’s tougher than he realizes and is determined to prove, for once and for all, that he has what it takes to make it in New York. By turns exciting, sad, and hysterically funny, Gulliver Takes Manhattan is a refreshingly candid tale of one man’s quest to stake a place for himself in the greatest city in the world.
+				<genre>lbgt, romance, humor</genre></book_description>
 					<year><year_published>2012</year_published></year>
-					<genre>lbgt</genre><genre>romance</genre><genre>humor</genre>
+					
 </author>
 <author>
+	<name><author_first_name>Justin Luke</author_first_name>
+	<author_last_name>Zirilli</author_last_name></name>
 			<book_title><title>Gulliver Takes Five</title></book_title>
 			<book_cover>
 					<image source="cover/zirilli2" />
 				</book_cover>
-				<book_description>In his wild and addictive follow-up to Gulliver Takes Manhattan, novelist Justin Luke Zirilli revisits a single epic night in the life of Gulliver Leverenz; this time through the eyes of six of Gully’s closest companions. There’s Marty, Gully’s ex-boyfriend, who gets a shot at a breakthrough role that could propel him straight to Broadway; hotheaded Brayden, who copes with a breakup by carving a path of blistering revenge across the city; bickering exes Servando and Rowan, for whom a subway breakdown ignites a powder keg of drama and discovery; Gully’s former best friend Todd, whose job as a gay nightlife promoter is turning out to be anything but glamorous; and go-go boy Chase, finally facing some hard truths about his life—and trying to cope with his harsh reality. Enrapturing, adventurous, and chaotic, Gulliver Takes Five gives readers an exclusive all-access pass to Gay New York for one rough, sexy—and unforgettable—night on the town.</book_description>
+				<book_description>In his wild and addictive follow-up to Gulliver Takes Manhattan, novelist Justin Luke Zirilli revisits a single epic night in the life of Gulliver Leverenz; this time through the eyes of six of Gully’s closest companions. There’s Marty, Gully’s ex-boyfriend, who gets a shot at a breakthrough role that could propel him straight to Broadway; hotheaded Brayden, who copes with a breakup by carving a path of blistering revenge across the city; bickering exes Servando and Rowan, for whom a subway breakdown ignites a powder keg of drama and discovery; Gully’s former best friend Todd, whose job as a gay nightlife promoter is turning out to be anything but glamorous; and go-go boy Chase, finally facing some hard truths about his life—and trying to cope with his harsh reality. Enrapturing, adventurous, and chaotic, Gulliver Takes Five gives readers an exclusive all-access pass to Gay New York for one rough, sexy—and unforgettable—night on the town.
+				<genre>lbgt, romance, humor</genre></book_description>
 					<year><year_published>2012</year_published></year>
-					<genre>lbgt</genre><genre>romance</genre><genre>humor</genre>
+					
 </author>
 
 </publishing_house>

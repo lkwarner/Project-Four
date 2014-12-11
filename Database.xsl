@@ -67,6 +67,11 @@
 				font-size: 125%;
 				}
 
+				tr:hover{
+					background-color: #C6FFC6;
+					color: black;
+				}
+
 			</style>
 
 
@@ -79,6 +84,33 @@
 	<button class="sort" data-sort="name">
     Sort by name
   	</button>
+
+  	<select name="book_description" id="genre">
+        <option selected="selected" value="genre">Genre</option>
+        <option value="crime">Crime</option>
+        <option value="fantasy">Fantasy</option>
+        <option value="fairy tale">Fairy Tale</option>
+        <option value="fiction">Fiction</option>
+        <option value="historical">Historical</option>
+        <option value="historical fiction">Historical Fiction</option>
+        <option value="horror">Horror</option>
+        <option value="humor">Humor</option>
+        <option value="lgbt">LGBT</option>
+        <option value="memoir">Memoir</option>
+        <option value="military">Military</option>
+        <option value="music">Music</option>
+        <option value="mystery">Mystery</option>
+        <option value="paranormal">Paranormal</option>
+        <option value="post apocalyptic">Post Apocalyptic</option>
+        <option value="romance">Romance</option>
+        <option value="science fiction">Science Fiction</option>
+        <option value="sports">Sports</option>
+        <option value="suspense">Suspense</option>
+        <option value="thriller">Thriller</option>
+        <option value="young adult">Young Adult</option>
+       
+      </select>
+
 	<table>
 		<tbody class="list">
 		<tr>
@@ -101,13 +133,14 @@
 		
 			<h6><xsl:for-each select="homepages">
 				<a><xsl:attribute name="href">
-					<xsl:value-of select="url" /></xsl:attribute>Link</a></xsl:for-each></h6></td>
+					<xsl:value-of select="url" /></xsl:attribute>Author's Homepage</a></xsl:for-each></h6></td>
 					</div>
 
 			<td><p><xsl:for-each select="book_cover">
 				<a href="{image/url/@url}"><img src="{image/@source}.jpg" /></a></xsl:for-each></p></td>
 			<div class="column">
-			<td><xsl:value-of select="book_description" /></td>
+			<td><xsl:value-of select="book_description" />
+			<p class="genre" data-sort="genre"><xsl:value-of select="genre" /></p></td>
 			</div>
 			
 		</tr>
@@ -127,7 +160,10 @@
 };
 
 var userList = new List('users', options);
-	</script>
+
+</script>
+
+
 
 </body>
 </html>
